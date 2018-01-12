@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+  {{ partial "meta.html" . }}
+</head>
+<body>
+  {{ partial "header.html" . }}
+
+  {{ if or (eq .Section "drinks") }}
+    <main class="">
+      <div class="recipe-card">
+        {{ if .Params.image }}
+        <img class="recipe-card__image" src="{{.Params.image.url}}"
+          alt="{{.Params.image.alt}}"/>
+        {{ end }}
+        <div class="recipe-card__inner">
+          <h1>{{.Title}}</h1>
+          <div>
+            {{.Content}}
+          </div>
+        </div>
+      </div>
+    </main>
+  {{ else }}
+    <main class="">
+      <h1>{{.Title}}</h1>
+      <div>
+        {{.Content}}
+      </div>
+    </main>
+  {{ end }}
+  {{ partial "footer.html" . }}
+</body>
+</html>

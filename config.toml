@@ -1,0 +1,5 @@
+baseurl = "https://sidecar.keithjgrant.com/"
+languageCode = "en-us"
+title = "Sidecar"
+paginate = 20
+theme = "sidecar"

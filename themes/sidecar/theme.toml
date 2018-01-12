@@ -1,0 +1,11 @@
+name = "Sidecar"
+license = "MIT"
+description = ""
+homepage = "http://sidecar.keithjgrant.com.com/"
+tags = [""]
+features = ["", ""]
+min_version = 0.18
+
+[author]
+  name = "Keith J. Grant"
+  homepage = "https://keithjgrant.com"

@@ -1,0 +1,22 @@
+body {
+  font-family: Alegreya, Helvetica Neue, Helvetica, Arial, sans-serif;
+  background-color: $gray-9;
+}
+
+h1,
+h2,
+h3 {
+  font-family: Playfair Display, Bodoni, serif;
+}
+
+:first-child {
+  margin-top: 0;
+}
+
+:last-child {
+  margin-bottom: 0;
+}
+
+img {
+  max-width: 100%;
+}
