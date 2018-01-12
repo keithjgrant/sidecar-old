@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Sidecar</title>
+    <link>https://sidecar.keithjgrant.com/tags/</link>
+    <description>Recent content in Tags on Sidecar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Jan 2018 12:21:43 -0500</lastBuildDate>
+    
+	<atom:link href="https://sidecar.keithjgrant.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dry Vermouth</title>
+      <link>https://sidecar.keithjgrant.com/tags/dry-vermouth/</link>
+      <pubDate>Mon, 08 Jan 2018 12:21:43 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/tags/dry-vermouth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Othertag</title>
+      <link>https://sidecar.keithjgrant.com/tags/othertag/</link>
+      <pubDate>Mon, 08 Jan 2018 12:21:43 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/tags/othertag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sweet Vermouth</title>
+      <link>https://sidecar.keithjgrant.com/tags/sweet-vermouth/</link>
+      <pubDate>Mon, 08 Jan 2018 12:21:43 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/tags/sweet-vermouth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tag</title>
+      <link>https://sidecar.keithjgrant.com/tags/tag/</link>
+      <pubDate>Mon, 08 Jan 2018 12:21:43 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/tags/tag/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

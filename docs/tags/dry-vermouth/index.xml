@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dry Vermouth on Sidecar</title>
-    <link>https://sidecar.keithjgrant.com/tags/dry-vermouth/index.xml</link>
+    <link>https://sidecar.keithjgrant.com/tags/dry-vermouth/</link>
     <description>Recent content in Dry Vermouth on Sidecar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://sidecar.keithjgrant.com/tags/dry-vermouth/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Jan 2018 12:21:43 -0500</lastBuildDate>
+    
+	<atom:link href="https://sidecar.keithjgrant.com/tags/dry-vermouth/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>French Kiss</title>
@@ -14,15 +17,7 @@
       <pubDate>Mon, 08 Jan 2018 12:21:43 -0500</pubDate>
       
       <guid>https://sidecar.keithjgrant.com/drinks/french-kiss/</guid>
-      <description>&lt;p&gt;As always, use only &lt;a href=&#34;https://sidecar.keithjgrant.com/ingredients/vermouth&#34;&gt;high quality vermouth&lt;/a&gt; that is fresh (less than three months old).&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;2 oz sweet vermouth&lt;/li&gt;
-&lt;li&gt;2 oz dry vermouth&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Build in a rocks glass. Add a lemon twist.&lt;/p&gt;
-</description>
+      <description>As always, use only high quality vermouth that is fresh (less than three months old).  2 oz sweet vermouth 2 oz dry vermouth  Build in a rocks glass. Add a lemon twist.  </description>
     </item>
     
   </channel>

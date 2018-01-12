@@ -1,0 +1,13 @@
+.header-title {
+  color: $orange-9;
+  font-size: 1.25rem;
+
+  & svg {
+    vertical-align: -0.6em;
+  }
+
+  & a {
+    color: inherit;
+    text-decoration: none;
+  }
+}

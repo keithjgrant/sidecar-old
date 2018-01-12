@@ -2,12 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sidecar</title>
-    <link>https://sidecar.keithjgrant.com/index.xml</link>
+    <link>https://sidecar.keithjgrant.com/</link>
     <description>Recent content on Sidecar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Jan 2018 13:09:29 -0500</lastBuildDate>
-    <atom:link href="https://sidecar.keithjgrant.com/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://sidecar.keithjgrant.com/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>gin</title>
@@ -24,16 +26,8 @@
       <pubDate>Mon, 08 Jan 2018 13:09:24 -0500</pubDate>
       
       <guid>https://sidecar.keithjgrant.com/ingredients/vermouth/</guid>
-      <description>
-
-&lt;h2 id=&#34;types&#34;&gt;Types&lt;/h2&gt;
-
-&lt;p&gt;There are several types of vermouth, the most common being ”dry” and “sweet”. Dry vermouth is known for its use in a &lt;a href=&#34;https://sidecar.keithjgrant.com/drinks/martini&#34;&gt;martini&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;brands&#34;&gt;Brands&lt;/h2&gt;
-
-&lt;p&gt;The &lt;em&gt;Martini &amp;amp; Rossi&lt;/em&gt; brand is the most readily available in the United States. Their dry vermouth is passable. But I find their sweet (called “Rosso”) to be medicinal and a quick way to ruin a drink.&lt;/p&gt;
-</description>
+      <description>Types There are several types of vermouth, the most common being ”dry” and “sweet”. Dry vermouth is known for its use in a martini.
+Brands The Martini &amp;amp; Rossi brand is the most readily available in the United States. Their dry vermouth is passable. But I find their sweet (called “Rosso”) to be medicinal and a quick way to ruin a drink.</description>
     </item>
     
     <item>
@@ -78,15 +72,7 @@
       <pubDate>Mon, 08 Jan 2018 12:21:43 -0500</pubDate>
       
       <guid>https://sidecar.keithjgrant.com/drinks/french-kiss/</guid>
-      <description>&lt;p&gt;As always, use only &lt;a href=&#34;https://sidecar.keithjgrant.com/ingredients/vermouth&#34;&gt;high quality vermouth&lt;/a&gt; that is fresh (less than three months old).&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;2 oz sweet vermouth&lt;/li&gt;
-&lt;li&gt;2 oz dry vermouth&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Build in a rocks glass. Add a lemon twist.&lt;/p&gt;
-</description>
+      <description>As always, use only high quality vermouth that is fresh (less than three months old).  2 oz sweet vermouth 2 oz dry vermouth  Build in a rocks glass. Add a lemon twist.  </description>
     </item>
     
     <item>
@@ -95,13 +81,8 @@
       <pubDate>Mon, 08 Jan 2018 11:17:50 -0500</pubDate>
       
       <guid>https://sidecar.keithjgrant.com/drinks/sidecar/</guid>
-      <description>&lt;p&gt;The sidecar&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;?oz Cognac&lt;/li&gt;
-&lt;li&gt;?oz Cointreau&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>The sidecar
+ ?oz Cognac ?oz Cointreau  </description>
     </item>
     
   </channel>

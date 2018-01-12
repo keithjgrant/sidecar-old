@@ -1,7 +1,17 @@
 @import 'variables';
 @import 'base';
+@import 'page-header';
+@import 'header-title';
+@import 'nav-links';
 @import 'recipe-card';
 @import 'recipe-box';
 @import 'ingredients';
 @import 'recipe-intro';
 @import 'taglist';
+
+.card-wrapper {
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  min-height: calc(100vh - $header-height);
+}
