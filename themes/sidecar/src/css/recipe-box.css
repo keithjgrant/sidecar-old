@@ -3,17 +3,6 @@
   color: $gray-5;
   background-color: $white;
   box-shadow: 0.3em 0.3em 1em rgba(0, 0, 0, 0.4);
-
-  & ul {
-    padding-left: 0;
-    color: $gray-1;
-    font-style: italic;
-    list-style-type: none;
-  }
-
-  & ul ~ p {
-    color: $gray-1;
-  }
 }
 
 .recipe-box__title {

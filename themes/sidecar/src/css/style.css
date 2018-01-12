@@ -2,4 +2,5 @@
 @import 'base';
 @import 'recipe-card';
 @import 'recipe-box';
-
+@import 'content-recipe';
+@import 'tag';

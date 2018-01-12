@@ -1,9 +1,9 @@
 .recipe-card {
   display: grid;
-  grid-template-columns: 400px 400px;
-  grid-template-rows: 400px auto;
+  grid-template-columns: 1fr;
+  grid-template-rows: 40vh auto;
   max-width: 800px;
-  margin: 0 auto;
+  margin: 0;
 }
 
 .recipe-card__image {
@@ -18,8 +18,28 @@
 }
 
 .recipe-card__body {
-  grid-column: 2;
-  grid-row: 1 / 3;
+  grid-row: 2;
+}
+
+@media (min-width: 500px) {
+  .recipe-card {
+    grid-template-columns: calc(50vw - 1em) calc(50vw - 1em);
+    grid-template-rows: calc(50vw - 10px) auto;
+    margin: 0 1em;
+  }
+
+  .recipe-card__body {
+    grid-column: 2;
+    grid-row: 1 / 3;
+  }
+}
+
+@media (min-width: 820px) {
+  .recipe-card {
+    grid-template-columns: 400px 400px;
+    grid-template-rows: 400px auto;
+    margin: 0 auto;
+  }
 }
 
 /*
