@@ -11,9 +11,15 @@ url = "/images/drinks/french-kiss.jpg"
 alt = "A French Kiss in a crystal glass in front of two bottles of vermouth"
 +++
 
+{{< summary >}}
 As always, use only [high quality vermouth](/ingredients/vermouth) that is fresh (less than three months old).
+{{< /summary >}}
 
-* 2 oz sweet vermouth
-* 2 oz dry vermouth
+{{< ingredients
+"2 oz sweet vermouth"
+"2 oz dry vermouth"
+>}}
 
+{{< instructions >}}
 Build in a rocks glass. Add a lemon twist.
+{{< /instructions >}}

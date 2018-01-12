@@ -1,13 +1,13 @@
 .recipe-box {
   padding: 2em 1.8em;
-  color: $gray-5;
+  color: $gray-3;
+  color: var(--font-color, $gray-3);
   background-color: $white;
   box-shadow: 0.3em 0.3em 1em rgba(0, 0, 0, 0.4);
 }
 
 .recipe-box__title {
   margin-bottom: 0.3rem;
-  color: $gray-1;
   font-size: 1.8rem;
   font-weight: normal;
 }

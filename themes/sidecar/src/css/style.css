@@ -2,5 +2,6 @@
 @import 'base';
 @import 'recipe-card';
 @import 'recipe-box';
-@import 'content-recipe';
+@import 'ingredients';
+@import 'recipe-intro';
 @import 'taglist';

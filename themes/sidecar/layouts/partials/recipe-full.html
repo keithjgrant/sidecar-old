@@ -1,0 +1,28 @@
+
+<div class="recipe-card h-recipe">
+  {{ if .Params.image }}
+  <div class="recipe-card__image">
+    <img src="{{.Params.image.url}}"
+    alt="{{.Params.image.alt}}"/>
+  </div>
+  {{ end }}
+  <div class="recipe-card__body recipe-box">
+    <h1 class="recipe-box__title p-name">{{.Title}}</h1>
+    <ul class="taglist">
+      {{ range .Params.tags }}
+      <li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
+    {{ end }}
+    </ul>
+    {{ if .Params.summary }}
+      <div class="recipe-summary p-summary">{{ .Params.summary }}</div>
+    {{ end }}
+    <ul class="ingredients">
+      {{ range .Params.ingredients }}
+      <li class="p-ingredient">{{ . }}</li>
+      {{ end }}
+    </ul>
+    <div class="content-recipe e-instructions">
+      {{.Content}}
+    </div>
+  </div>
+</div>

@@ -8,25 +8,7 @@
 
   {{ if or (eq .Section "drinks") }}
     <main class="">
-      <div class="recipe-card">
-        {{ if .Params.image }}
-        <div class="recipe-card__image">
-          <img src="{{.Params.image.url}}"
-          alt="{{.Params.image.alt}}"/>
-        </div>
-        {{ end }}
-        <div class="recipe-card__body recipe-box">
-          <h1 class="recipe-box__title">{{.Title}}</h1>
-          <ul class="taglist">
-            {{ range .Params.tags }}
-            <li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
-          {{ end }}
-          </ul>
-          <div class="content-recipe">
-            {{.Content}}
-          </div>
-        </div>
-      </div>
+      {{ partial "recipe-full.html" . }}
     </main>
   {{ else }}
     <main class="">

@@ -24,3 +24,13 @@
     background-color: $orange-5;
   }
 }
+
+@media (pointer: coarse) {
+  .taglist > li {
+    line-height: 2.2;
+  }
+
+  .taglist > li > a {
+    padding: 0.6em 1em;
+  }
+}
