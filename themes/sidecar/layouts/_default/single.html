@@ -10,11 +10,13 @@
     <main class="">
       <div class="recipe-card">
         {{ if .Params.image }}
-        <img class="recipe-card__image" src="{{.Params.image.url}}"
+        <div class="recipe-card__image">
+          <img src="{{.Params.image.url}}"
           alt="{{.Params.image.alt}}"/>
+        </div>
         {{ end }}
-        <div class="recipe-card__inner">
-          <h1>{{.Title}}</h1>
+        <div class="recipe-card__body recipe-box">
+          <h1 class="recipe-box__title">{{.Title}}</h1>
           <div>
             {{.Content}}
           </div>

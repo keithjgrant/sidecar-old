@@ -1,12 +1,18 @@
 body {
-  font-family: Alegreya, Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-family: Baskerville, Baskerville Old Face, Hoefler Text, Garamond,
+    Times New Roman, serif;
+  font-family: Cabin, Futura, Tahoma, sans-serif;
   background-color: $gray-9;
+  color: $gray-1;
+  line-height: 1.45;
 }
 
 h1,
 h2,
 h3 {
-  font-family: Playfair Display, Bodoni, serif;
+  /*font-family: Playfair Display, Bodoni, serif;*/
+  font-weight: normal;
+  line-height: 1.25;
 }
 
 :first-child {
@@ -19,4 +25,18 @@ h3 {
 
 img {
   max-width: 100%;
+}
+
+a {
+  color: $orange-5;
+  transition: color 0.3s linear;
+  text-decoration-skip: ink;
+}
+
+a:visited {
+  color: $orange-6;
+}
+
+a:hover {
+  color: $orange-4;
 }
