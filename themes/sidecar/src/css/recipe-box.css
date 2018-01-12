@@ -6,8 +6,8 @@
 }
 
 .recipe-box__title {
+  margin-bottom: 0.3rem;
   color: $gray-1;
-  color: $orange-5;
   font-size: 1.8rem;
   font-weight: normal;
 }

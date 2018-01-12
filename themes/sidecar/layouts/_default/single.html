@@ -18,6 +18,9 @@
         <div class="recipe-card__body recipe-box">
           <h1 class="recipe-box__title">{{.Title}}</h1>
           <ul class="taglist">
+            {{ range .Params.tags }}
+            <li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
+          {{ end }}
           </ul>
           <div class="content-recipe">
             {{.Content}}

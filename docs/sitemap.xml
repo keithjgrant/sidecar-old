@@ -60,6 +60,12 @@
   </url>
   
   <url>
+    <loc>https://sidecar.keithjgrant.com/tags/othertag/</loc>
+    <lastmod>2018-01-08T12:21:43-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sidecar.keithjgrant.com/</loc>
     <lastmod>2018-01-08T13:09:29-05:00</lastmod>
     <priority>0</priority>
@@ -67,6 +73,12 @@
   
   <url>
     <loc>https://sidecar.keithjgrant.com/tags/sweet-vermouth/</loc>
+    <lastmod>2018-01-08T12:21:43-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sidecar.keithjgrant.com/tags/tag/</loc>
     <lastmod>2018-01-08T12:21:43-05:00</lastmod>
     <priority>0</priority>
   </url>

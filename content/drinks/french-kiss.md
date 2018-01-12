@@ -1,9 +1,9 @@
 +++
 date = "2018-01-08T12:21:43-05:00"
-title = "Bannon Tantrum"
+title = "French Kiss"
 tags = [
   "sweet-vermouth",
-  "dry-vermouth"
+  "dry-vermouth", "tag", "othertag"
 ]
 
 [image]

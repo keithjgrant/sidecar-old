@@ -1,0 +1,26 @@
+.taglist {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0.8em -0.5em 1em;
+  padding-left: 0;
+  list-style-type: none;
+}
+
+.taglist > li {
+  margin: 0 0.2em;
+  line-height: 1.7;
+}
+
+.taglist > li > a {
+  padding: 0.2em 1em;
+  border-radius: 1em;
+  color: $white;
+  background-color: $orange-6;
+  font-size: 0.72rem;
+  transition: background-color 0.3s linear;
+  text-decoration: none;
+
+  &:hover {
+    background-color: $orange-5;
+  }
+}
