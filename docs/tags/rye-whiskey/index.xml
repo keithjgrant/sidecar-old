@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rye Whiskey on Sidecar</title>
+    <link>https://sidecar.keithjgrant.com/tags/rye-whiskey/</link>
+    <description>Recent content in Rye Whiskey on Sidecar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Jan 2018 11:31:10 -0500</lastBuildDate>
+    
+	<atom:link href="https://sidecar.keithjgrant.com/tags/rye-whiskey/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Manhattan</title>
+      <link>https://sidecar.keithjgrant.com/drinks/manhattan/</link>
+      <pubDate>Sat, 13 Jan 2018 11:31:10 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/drinks/manhattan/</guid>
+      <description> 2 oz rye whiskey1 oz sweet vermouth2 dashes Angostura bitters Combine in a shaker with ice. Stir, then strain into a coupe glass.
+Garnish with a Maraschino cherry.
+ </description>
+    </item>
+    
+  </channel>
+</rss>

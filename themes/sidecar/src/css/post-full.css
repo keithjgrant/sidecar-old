@@ -5,6 +5,11 @@
   background-color: $white;
   box-shadow: $box-shadow;
   line-height: 1.7;
+
+  & p,
+  & ul {
+    margin: 1.72em 0;
+  }
 }
 
 @media (min-width: 832px) {
@@ -14,8 +19,9 @@
   }
 }
 
-/* vertical rhythm guide
+/* vertical rhythm guide * /
 .post-full {
   background-image: repeating-linear-gradient(white 0px, white 26.2px, gray 27.2px);
   background-position: 0px 12px;
-} */
+}
+/* */

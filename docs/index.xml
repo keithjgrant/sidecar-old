@@ -6,10 +6,34 @@
     <description>Recent content on Sidecar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jan 2018 21:27:58 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jan 2018 11:31:10 -0500</lastBuildDate>
     
 	<atom:link href="https://sidecar.keithjgrant.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Manhattan</title>
+      <link>https://sidecar.keithjgrant.com/drinks/manhattan/</link>
+      <pubDate>Sat, 13 Jan 2018 11:31:10 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/drinks/manhattan/</guid>
+      <description> 2 oz rye whiskey1 oz sweet vermouth2 dashes Angostura bitters Combine in a shaker with ice. Stir, then strain into a coupe glass.
+Garnish with a Maraschino cherry.
+ </description>
+    </item>
+    
+    <item>
+      <title>Martini</title>
+      <link>https://sidecar.keithjgrant.com/drinks/martini/</link>
+      <pubDate>Sat, 13 Jan 2018 11:30:58 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/drinks/martini/</guid>
+      <description> Everyone has an opinion about martinis. I’ll spare you mine, and just give you my recipe. Trust me.
+I often use a blanc vermouth instead of the traditional dry, but it’s delicious with either.
+ 2¼ oz sweet gin¾ oz dry vermouth Add to cocktail shaker with plenty of ice. Stir well, then strain into a martini glass.
+Garnish with a lemon twist.
+ </description>
+    </item>
     
     <item>
       <title>Negroni</title>
@@ -17,8 +41,8 @@
       <pubDate>Fri, 12 Jan 2018 21:27:58 -0500</pubDate>
       
       <guid>https://sidecar.keithjgrant.com/drinks/negroni/</guid>
-      <description>The Negroni is my favorite drink. It’s quite sweet, but also bitter and complex. I make mine with Tanquery gin and Cocci di Torino vermouth. It can also be served on the rocks, but I prefer it neat. 1 oz London dry gin1 oz Campari1 oz Sweet vermouth Add all ingredients to a shaker along with plenty of ice. Stir for 15–20 seconds. Strain into a coupe glass.
-Garnish with an orange peel.</description>
+      <description>The Negroni is my favorite drink. It’s quite sweet, but also bitter and complex. I make mine with Tanquery gin and Cocchi di Torino vermouth. It can also be served on the rocks, but I prefer it neat. 1 oz London dry gin1 oz Campari1 oz Sweet vermouth Add all ingredients to a shaker along with plenty of ice. Stir for 15–20 seconds. Strain into a coupe glass.
+Garnish with an orange twist.</description>
     </item>
     
     <item>
@@ -36,8 +60,8 @@ Garnish with an orange peel.</description>
       <pubDate>Mon, 08 Jan 2018 13:09:24 -0500</pubDate>
       
       <guid>https://sidecar.keithjgrant.com/ingredients/vermouth/</guid>
-      <description>Types There are several types of vermouth, the most common being ”dry” and “sweet”. Dry vermouth is known for its use in a martini.
-Brands The Martini &amp;amp; Rossi brand is the most readily available in the United States. Their dry vermouth is passable. But I find their sweet (called “Rosso”) to be medicinal and a quick way to ruin a drink.</description>
+      <description>&lt;p&gt;Vermouth is type of fortified wine with added hints of various herbs and spices. It’s a common ingredient in many cocktails, the most well-known being the &lt;a href=&#34;https://sidecar.keithjgrant.com/drinks/martini&#34;&gt;martini&lt;/a&gt;.
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -91,8 +115,9 @@ Brands The Martini &amp;amp; Rossi brand is the most readily available in the Un
       <pubDate>Mon, 08 Jan 2018 11:17:50 -0500</pubDate>
       
       <guid>https://sidecar.keithjgrant.com/drinks/sidecar/</guid>
-      <description>The sidecar
- ?oz Cognac ?oz Cointreau  </description>
+      <description> The simple syrup isn’t traditional, but I like this with a touch of additional sweetness. 2 oz Cognac¾ oz orange liquer¾ oz lemon juice¼ oz simple syrup Shake vigorously with ice. Strain into a coupe glass.
+Garnish with an orange twist, discarded.
+ </description>
     </item>
     
   </channel>

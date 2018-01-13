@@ -2,9 +2,9 @@
 title: "Negroni"
 date: 2018-01-12T21:27:58-05:00
 tags: [
-"gin",
-"sweet-vermouth",
-"stirred"
+  "gin",
+  "sweet-vermouth",
+  "stirred"
 ]
 ---
 {{< wrap >}}
@@ -22,6 +22,6 @@ The Negroni is my favorite drink. It’s quite sweet, but also bitter and comple
 {{< instructions >}}
 Add all ingredients to a shaker along with plenty of ice. Stir for 15–20 seconds. Strain into a coupe glass.
 
-Garnish with an orange peel.
+Garnish with an orange twist.
 {{< /instructions >}}
 {{< /wrap >}}
