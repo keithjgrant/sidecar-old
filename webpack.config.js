@@ -4,12 +4,12 @@ const UglifyJSPlugin = require('uglifyjs-webpack-plugin');
 const THEME = 'sidecar';
 
 const THEME_DIR = './themes/' + THEME + '/src/';
-// const extractStyles = new ExtractTextPlugin(THEME_DIR + 'css/style.css');
 const extractStyles = new ExtractTextPlugin('css/style.css');
 
 module.exports = {
   entry: {
     index: THEME_DIR + 'js/index.js',
+    '../sw': THEME_DIR + 'sw.js',
     css: THEME_DIR + 'css/style.css',
   },
   output: {
@@ -21,7 +21,6 @@ module.exports = {
       {
         test: /\.css$/,
         loader: extractStyles.extract({
-          // loader: 'css-loader?importLoaders=1!postcss-loader',
           loader: [
             {
               loader: 'css-loader',
