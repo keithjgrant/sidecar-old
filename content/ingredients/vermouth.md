@@ -4,8 +4,29 @@ date = "2018-01-08T13:09:24-05:00"
 
 +++
 
-## Types
-There are several types of vermouth, the most common being ”dry” and “sweet”. Dry vermouth is known for its use in a [martini](/drinks/martini).
+Vermouth is type of fortified wine with added hints of various herbs and spices. It’s a common ingredient in many cocktails, the most well-known being the [martini](/drinks/martini).
+<!--more-->
 
-## Brands
-The _Martini & Rossi_ brand is the most readily available in the United States. Their dry vermouth is passable. But I find their sweet (called “Rosso”) to be medicinal and a quick way to ruin a drink.
+## Types of Vermouth
+The two most common types of vermouth are *dry* and *sweet*. Dry vermouths are light in color, often with a hint of yellow. The quintessential dry vermouth drink is the [martini](/drinks/martini).
+
+Sweet vermouths, often labelled “Rosso”, are reddish in color and sweeter tasting than dry vermouths. The best-known sweet vermouth drink is the [manhattan](/drinks/manhattan).
+
+Another less common type of vermouth are “blanc” or “bianco”. Blanc vermouth is clear in color, but sweeter in flavor than
+
+### Brands
+The most readily-available brand of vermouth (in the U.S.) is *Martini & Rossi*. Their dry vermouth is passable, but there are far better options available. Their sweet vermouth is overly medicinal and a quick way to ruin a drink.
+
+Vermouth is often under-appreciated, in part because this brand is all you will find in most home liquor cabinets. I recommend the following brands (my favorites at the top):
+
+* Dolin
+* Cocchi
+* Carpano
+* Lillet
+* Noilly Prat
+* Cinzano
+
+## Storing Vermouth
+Vermouth is made from wine, so it goes bad! Once you’ve opened a bottle, store it in your fridge. It will be good there for about three months.
+
+If you’re unsure, taste a little. If it tastes bad, it’s bad. If you have an old dusty bottle on your shelf, throw it away.

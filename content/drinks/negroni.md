@@ -9,7 +9,7 @@ tags: [
 ---
 {{< wrap >}}
 {{< summary >}}
-The Negroni is my favorite drink. It’s quite sweet, but also bitter and complex. I make mine with Tanquery gin and Cocci di Torino vermouth. It can also be served on the rocks, but I prefer it neat.
+The Negroni is my favorite drink. It’s quite sweet, but also bitter and complex. I make mine with Tanquery gin and Cocchi di Torino vermouth. It can also be served on the rocks, but I prefer it neat.
 {{< /summary >}}
 
 {{< ingredients

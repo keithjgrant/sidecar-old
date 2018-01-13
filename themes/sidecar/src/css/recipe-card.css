@@ -30,7 +30,7 @@
 }
 
 
-@media (min-width: 500px) {
+@media (min-width: 600px) {
   .recipe-card {
     grid-template-columns: calc(50vw - 1em) calc(50vw - 1em);
     grid-template-rows: calc(50vw - 10px) auto;

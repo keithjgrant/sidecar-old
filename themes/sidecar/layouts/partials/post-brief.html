@@ -1,7 +1,7 @@
-<a href="{{.URL}}" class="recipe-brief h-entry">
+<a href="{{.URL}}" class="recipe-brief">
   <h2>{{.Title}}</h2>
   <div class="recipe-brief__summary">
-    {{- .Summary -}}
+    {{- .Summary | plainify -}}
   </div>
   <date class="dt-published">{{dateFormat "02 Jan 2006" .Date.Local}}</date>
 </a>

@@ -21,3 +21,7 @@
     color: $gray-6;
   }
 }
+
+.recipe-brief__summary {
+  margin: 1em 0;
+}

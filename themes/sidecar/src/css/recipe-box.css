@@ -3,7 +3,7 @@
   color: $gray-3;
   color: var(--font-color, $gray-3);
   background-color: $white;
-  box-shadow: 0.3em 0.3em 1em rgba(0, 0, 0, 0.4);
+  box-shadow: $box-shadow;
 }
 
 .recipe-box__title {
@@ -14,6 +14,6 @@
 
 @media (min-width: 375px) {
   .recipe-card__body {
-    padding: 2em 1.8em;
+    padding: 1em 1.8em 2em;
   }
 }
