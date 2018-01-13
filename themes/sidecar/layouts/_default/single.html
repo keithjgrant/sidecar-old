@@ -7,9 +7,7 @@
   {{ partial "header.html" . }}
 
   {{ if or (eq .Section "drinks") }}
-    <main class="">
       {{ partial "recipe-full.html" . }}
-    </main>
   {{ else }}
     <main class="">
       <h1>{{.Title}}</h1>
