@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sweet Vermouth on Sidecar</title>
-    <link>https://sidecar.keithjgrant.com/tags/sweet-vermouth/</link>
-    <description>Recent content in Sweet Vermouth on Sidecar</description>
+    <title>Gin on Sidecar</title>
+    <link>https://sidecar.keithjgrant.com/tags/gin/</link>
+    <description>Recent content in Gin on Sidecar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Jan 2018 21:27:58 -0500</lastBuildDate>
     
-	<atom:link href="https://sidecar.keithjgrant.com/tags/sweet-vermouth/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sidecar.keithjgrant.com/tags/gin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://sidecar.keithjgrant.com/drinks/negroni/</guid>
       <description>The Negroni is my favorite drink. It’s quite sweet, but also bitter and complex. I make mine with Tanquery gin and Cocci di Torino vermouth. It can also be served on the rocks, but I prefer it neat. 1 oz London dry gin1 oz Campari1 oz Sweet vermouth Add all ingredients to a shaker along with plenty of ice. Stir for 15–20 seconds and strain into a coupe glass.</description>
-    </item>
-    
-    <item>
-      <title>French Kiss</title>
-      <link>https://sidecar.keithjgrant.com/drinks/french-kiss/</link>
-      <pubDate>Mon, 08 Jan 2018 12:21:43 -0500</pubDate>
-      
-      <guid>https://sidecar.keithjgrant.com/drinks/french-kiss/</guid>
-      <description> As always, use only high quality vermouth that is fresh (less than three months old). 2 oz sweet vermouth2 oz dry vermouth Build in a rocks glass. Garnish with a lemon twist.  </description>
     </item>
     
   </channel>

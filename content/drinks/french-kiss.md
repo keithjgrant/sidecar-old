@@ -1,6 +1,6 @@
 ---
-date: "2018-01-08T12:21:43-05:00"
 title: "French Kiss"
+date: "2018-01-08T12:21:43-05:00"
 tags: [
   "sweet-vermouth",
   "dry-vermouth",
@@ -26,7 +26,7 @@ As always, use only [high quality vermouth](/ingredients/vermouth) that is fresh
 
 {{< instructions >}}
 
-Build in a rocks glass. Add a lemon twist.
+Build in a rocks glass. Garnish with a lemon twist.
 
 {{< /instructions >}}
 {{< /wrap >}}

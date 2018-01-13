@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sidecar.keithjgrant.com/drinks/negroni/</loc>
+    <lastmod>2018-01-12T21:27:58-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sidecar.keithjgrant.com/ingredients/gin/</loc>
     <lastmod>2018-01-08T13:09:29-05:00</lastmod>
   </url>
@@ -43,13 +48,19 @@
   </url>
   
   <url>
+    <loc>https://sidecar.keithjgrant.com/tags/built/</loc>
+    <lastmod>2018-01-08T12:21:43-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sidecar.keithjgrant.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sidecar.keithjgrant.com/drinks/</loc>
-    <lastmod>2018-01-08T12:21:43-05:00</lastmod>
+    <lastmod>2018-01-12T21:27:58-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -60,32 +71,32 @@
   </url>
   
   <url>
+    <loc>https://sidecar.keithjgrant.com/tags/gin/</loc>
+    <lastmod>2018-01-12T21:27:58-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sidecar.keithjgrant.com/ingredients/</loc>
     <lastmod>2018-01-08T13:09:29-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sidecar.keithjgrant.com/tags/othertag/</loc>
-    <lastmod>2018-01-08T12:21:43-05:00</lastmod>
+    <loc>https://sidecar.keithjgrant.com/</loc>
+    <lastmod>2018-01-12T21:27:58-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sidecar.keithjgrant.com/</loc>
-    <lastmod>2018-01-08T13:09:29-05:00</lastmod>
+    <loc>https://sidecar.keithjgrant.com/tags/stirred/</loc>
+    <lastmod>2018-01-12T21:27:58-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sidecar.keithjgrant.com/tags/sweet-vermouth/</loc>
-    <lastmod>2018-01-08T12:21:43-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sidecar.keithjgrant.com/tags/tag/</loc>
-    <lastmod>2018-01-08T12:21:43-05:00</lastmod>
+    <lastmod>2018-01-12T21:27:58-05:00</lastmod>
     <priority>0</priority>
   </url>
   
