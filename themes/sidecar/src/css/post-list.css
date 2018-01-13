@@ -1,0 +1,27 @@
+.post-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-gap: 1em;
+
+  & > * {
+    padding: 0.6em 1em;
+    background-color: $white;
+    box-shadow: 0.3em 0.3em 1em rgba(0, 0, 0, 0.4);
+  }
+}
+
+.post-list__pagination {
+  grid-column: 1 / -1;
+
+  & > a {
+    display: block;
+  }
+}
+
+.post-list__item {
+  transition: transform .2s ease-out;
+}
+
+.post-list__item:hover {
+  transform: scale(1.05);
+}

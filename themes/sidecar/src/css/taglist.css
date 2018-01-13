@@ -11,7 +11,12 @@
   line-height: 1.7;
 }
 
-.taglist > li > a {
+.taglist--nolinks > li {
+  margin: 0.2em;
+}
+
+.taglist > li > a,
+.taglist--nolinks > li {
   padding: 0.2em 1em;
   border-radius: 1.5em;
   color: $white;
@@ -19,10 +24,10 @@
   font-size: 0.72rem;
   transition: background-color 0.3s linear;
   text-decoration: none;
+}
 
-  &:hover {
-    background-color: $orange-5;
-  }
+.taglist > li > a:hover {
+  background-color: $orange-5;
 }
 
 @media (pointer: coarse) {
@@ -30,7 +35,8 @@
     line-height: 2.2;
   }
 
-  .taglist > li > a {
+  .taglist > li > a,
+  .taglist--nolinks > li {
     padding: 0.6em 1em;
   }
 }

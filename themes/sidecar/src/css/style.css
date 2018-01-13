@@ -8,10 +8,7 @@
 @import 'ingredients';
 @import 'recipe-intro';
 @import 'taglist';
-
-.card-wrapper {
-  display: flex;
-  align-items: center;
-  justify-items: center;
-  min-height: calc(100vh - $header-height);
-}
+@import 'card-wrapper';
+@import 'list-container';
+@import 'post-list';
+@import 'recipe-brief';

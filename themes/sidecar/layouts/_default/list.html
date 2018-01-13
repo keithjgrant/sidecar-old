@@ -6,27 +6,22 @@
 <body class="h-feed">
   {{- partial "header.html" . -}}
 
-  <div class="list-bg js-main">
+  <div class="list-container list-container--{{.Section}}">
     <h1 class="list-heading">{{ .Title }}</h1>
-    <div class="l-list">
+    <div class="post-list post-list--{{.Section}}">
       {{- if .Paginator.HasPrev -}}
-        <div class="l-list__pagination pagination-loader">
+        <div class="post-list__pagination">
           <a rel="prev" href="{{.Paginator.Prev.URL}}">load newer posts</a>
         </div>
       {{- end -}}
       {{- range .Paginator.Pages -}}
-        {{- if eq .Section "talks" -}}
-          {{- .Content -}}
-        {{- else -}}
-          <div class="l-list__item">
-            {{- if eq .Section "drinks" -}}
-              <a href="{{.URL}}">{{.Title}}</a>
-            {{- else -}}
-              - other stuff here -
-              <a href="{{.URL}}">{{.Title}}</a>
-            {{- end -}}
-          </div>
-        {{- end -}}
+        <div class="post-list__item h-entry">
+          {{- if eq .Section "drinks" -}}
+            {{- partial "recipe-brief.html" . -}}
+          {{- else -}}
+            {{- partial "post-brief.html" . -}}
+          {{- end -}}
+        </div>
       {{- end -}}
       {{- if .Paginator.HasNext -}}
         <div class="l-list__pagination pagination-loader">

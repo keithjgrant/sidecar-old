@@ -9,7 +9,7 @@
 .recipe-card__image {
   grid-column: 1;
   grid-row: 1 / 2;
-  box-shadow: .3em .3em 1em rgba(0,0,0,.4);
+  box-shadow: 0.3em 0.3em 1em rgba(0, 0, 0, 0.4);
 
   & > img {
     width: 100%;

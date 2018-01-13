@@ -1,0 +1,23 @@
+.recipe-brief {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  color: $gray-3;
+  text-decoration: none;
+
+  &:any-link,
+  &:visited {
+    color: $gray-3;
+  }
+
+  & > h2 {
+    margin: 0;
+  }
+
+  & > date {
+    margin-top: auto;
+    text-align: right;
+    font-size: 0.8rem;
+    color: $gray-6;
+  }
+}

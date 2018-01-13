@@ -1,0 +1,9 @@
+<a href="{{.URL}}" class="recipe-brief">
+  <h2>{{.Title}}</h2>
+  <ul class="taglist taglist--nolinks">
+    {{- range .Params.tags -}}
+      <li>{{ . }}</li>
+    {{- end -}}
+  </ul>
+  <date class="dt-published">Published {{dateFormat "02 Jan 2006" .Date.Local}}</date>
+</a>
