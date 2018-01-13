@@ -1,24 +1,25 @@
 .page-header {
   display: grid;
-  grid-template-columns: auto auto;
-  grid-gap: 0.8em;
-  align-items: center;
+  grid-template-columns: auto;
+  justify-items: center;
   padding: 0.4em 1em 0.2em;
   background-color: $orange-5;
   color: $white;
 }
 
-.page-header__nav {
-  justify-self: end;
-}
-
-@media (min-width; 700px) {
+@media (min-width: 500px) {
   .page-header {
+    grid-template-columns: auto auto;
+    grid-gap: 0.8em;
     align-items: baseline;
   }
 
+  .page-header__title {
+    justify-self: start;
+  }
+
   .page-header__nav {
-    justify-self: center;
+    justify-self: end;
   }
 }
 

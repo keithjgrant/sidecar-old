@@ -4,9 +4,6 @@ body {
   margin: 0;
   color: $gray-3;
   background-color: $orange-9;
-  /*font-family: Baskerville, Baskerville Old Face, Hoefler Text, Garamond,
-    Times New Roman, serif;*/
-  /*font-family: Cabin, Futura, Tahoma, sans-serif;*/
   font-family: Raleway, Tahoma, sans-serif;
   line-height: 1.45;
 }

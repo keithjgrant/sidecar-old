@@ -13,7 +13,7 @@
 
 .taglist > li > a {
   padding: 0.2em 1em;
-  border-radius: 1em;
+  border-radius: 1.5em;
   color: $white;
   background-color: $orange-6;
   font-size: 0.72rem;

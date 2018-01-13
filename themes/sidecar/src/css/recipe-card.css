@@ -3,7 +3,7 @@
   grid-template-columns: 1fr;
   grid-template-rows: 40vh auto;
   max-width: 800px;
-  margin: 1em;
+  margin: 1em 0;
 }
 
 .recipe-card__image {
@@ -22,6 +22,13 @@
   grid-row: 2;
   box-shadow: .3em .3em 1em rgba(0,0,0,.4);
 }
+
+@media (min-width: 375px) {
+  .recipe-card {
+    margin: 1em;
+  }
+}
+
 
 @media (min-width: 500px) {
   .recipe-card {

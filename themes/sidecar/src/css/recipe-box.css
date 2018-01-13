@@ -1,5 +1,5 @@
 .recipe-box {
-  padding: 2em 1.8em;
+  padding: 1.6em 1em;
   color: $gray-3;
   color: var(--font-color, $gray-3);
   background-color: $white;
@@ -10,4 +10,10 @@
   margin-bottom: 0.3rem;
   font-size: 1.8rem;
   font-weight: normal;
+}
+
+@media (min-width: 375px) {
+  .recipe-card__body {
+    padding: 2em 1.8em;
+  }
 }
