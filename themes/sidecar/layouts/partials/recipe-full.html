@@ -1,12 +1,16 @@
 
 <div class="card-wrapper">
   <div class="recipe-card h-recipe">
-    {{ if .Params.image }}
     <div class="recipe-card__image">
-      <img src="{{.Params.image.url}}"
-      alt="{{.Params.image.alt}}"/>
+      {{ if .Params.image }}
+        <img src="{{.Params.image.url}}"
+          alt="{{.Params.image.alt}}"
+          {{ if .Params.image.align}} style="object-fit: {{.Params.image.align}}"{{end}}/>
+      {{ else }}
+        <img src="/images/bar-wall.jpg"
+          alt="Shelves of a bar stocked with racks of liquor bottles"/>
+      {{ end }}
     </div>
-    {{ end }}
     <div class="recipe-card__body recipe-box">
       <h1 class="recipe-box__title p-name">{{.Title}}</h1>
       <ul class="taglist">

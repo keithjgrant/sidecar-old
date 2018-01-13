@@ -10,7 +10,7 @@ tags: [
 image:
   url: /images/drinks/french-kiss.jpg
   alt: "A French Kiss in a crystal glass in front of two bottles of vermouth"
-  align: "50% 60%"
+  align: "50% 70%"
 ---
 {{< wrap >}}
 {{< summary >}}
