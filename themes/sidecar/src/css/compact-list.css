@@ -1,27 +1,31 @@
-.post-list {
+.compact-list {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  grid-gap: 1em;
 
   & > * {
-    padding: 0.6em 1em;
-    background-color: $white;
-    box-shadow: $box-shadow;
-  }
-}
-
-.post-list__pagination {
-  grid-column: 1 / -1;
-
-  & > a {
     display: block;
+    padding: 0.6em 1em;
+    color: inherit;
+    background-color: $white;
+    text-decoration: none;
+    box-shadow: $box-shadow;
+
+    &:visited {
+      color: inherit;
+    }
   }
 }
 
-.post-list__item {
+.compact-list__item {
   transition: transform .2s ease-out;
 }
 
-.post-list__item:hover {
+.compact-list__item:hover {
   transform: scale(1.05);
+}
+
+@media (min-width: 416px) {
+  .compact-list {
+    grid-gap: 1em;
+  }
 }

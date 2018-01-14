@@ -4,17 +4,31 @@
   {{ partial "meta.html" . }}
 </head>
 <body>
-  {{ partial "header.html" . }}
-
-  <main class="">
+  <main class="hp-grid">
+    <div class="hp__header">
+      <div>
+        <h1>
+          {{- partial "svg/logo.html" . -}} Sidecar
+        </h1>
+        <div>A curated collection of cocktails</div>
+      </div>
+    </div>
+    <a class="hp__drinks hp__tile" href="/drinks/">Drinks</a>
+    <a class="hp__tags hp__tile" href="/tags/">Tags</a>
+    <a class="hp__techniques hp__tile" href="/techniques">Techniques</a>
+    <a class="hp__ingredients hp__tile" href="/ingredients/">Ingredients</a>
+    <a class="hp__about hp__tile" href="/about/">About</a>
+    <div class="hp__recent">
+      <h2>Recently added cocktails:</h2>
+      <div class="hp__recent__list">
+        {{ range first 3 (where .Site.Pages "Section" "drinks") }}
+          <a class="hp__tile" href={{ .URL }}>
+            {{- .Title -}}
+          </a>
+        {{ end }}
+      </div>
+    </div>
   </main>
-  <div>
-    {{ range first 3 (where .Site.Pages "Section" "drinks") }}
-      <a class="latest-post" href={{ .URL }}>
-        <h2>{{ .Title }}</h2>
-      </a>
-    {{ end }}
-  </div>
 
   {{ partial "footer.html" }}
 </body>

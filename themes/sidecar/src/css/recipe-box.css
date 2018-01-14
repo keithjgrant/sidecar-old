@@ -1,9 +1,18 @@
 .recipe-box {
+  display: flex;
+  flex-direction: column;
   padding: 1.6em 1em;
   color: $gray-3;
   color: var(--font-color, $gray-3);
   background-color: $white;
   box-shadow: $box-shadow;
+
+  & > date {
+    margin-top: auto;
+    font-size: 0.8rem;
+    text-align: right;
+    color: $gray-5;
+  }
 }
 
 .recipe-box__title {
@@ -14,6 +23,6 @@
 
 @media (min-width: 375px) {
   .recipe-card__body {
-    padding: 1em 1.8em 2em;
+    padding: 1em 1.8em;
   }
 }

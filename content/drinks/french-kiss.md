@@ -10,12 +10,12 @@ tags: [
 image:
   url: /images/drinks/french-kiss.jpg
   alt: "A French Kiss in a crystal glass in front of two bottles of vermouth"
-  align: "50% 70%"
+  align: "50% 80%"
 ---
 {{< wrap >}}
 {{< summary >}}
 
-As always, use only [high quality vermouth](/ingredients/vermouth) that is fresh (less than three months old).
+As always, use only [high quality vermouth](/ingredients/vermouth/#brands) that is [fresh](/ingredients/vermouth/#storing-vermouth) (less than three months old).
 
 {{< /summary >}}
 

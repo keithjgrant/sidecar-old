@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://sidecar.keithjgrant.com/drinks/</loc>
+    <lastmod>2018-01-10T21:32:07-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sidecar.keithjgrant.com/ingredients/gin/</loc>
     <lastmod>2018-01-08T13:09:29-05:00</lastmod>
   </url>
@@ -58,6 +63,10 @@
   </url>
   
   <url>
+    <loc>https://sidecar.keithjgrant.com/tags/</loc>
+  </url>
+  
+  <url>
     <loc>https://sidecar.keithjgrant.com/tags/blanc-vermouth/</loc>
     <lastmod>2018-01-13T11:30:58-05:00</lastmod>
     <priority>0</priority>
@@ -77,12 +86,6 @@
   
   <url>
     <loc>https://sidecar.keithjgrant.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sidecar.keithjgrant.com/drinks/</loc>
-    <lastmod>2018-01-13T11:31:10-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -131,6 +134,11 @@
   <url>
     <loc>https://sidecar.keithjgrant.com/tags/sweet-vermouth/</loc>
     <lastmod>2018-01-13T11:31:10-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sidecar.keithjgrant.com/tags/</loc>
     <priority>0</priority>
   </url>
   

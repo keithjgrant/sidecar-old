@@ -35,8 +35,7 @@
     line-height: 2.2;
   }
 
-  .taglist > li > a,
-  .taglist--nolinks > li {
+  .taglist > li > a {
     padding: 0.6em 1em;
   }
 }

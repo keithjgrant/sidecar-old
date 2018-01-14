@@ -1,7 +1,7 @@
 .recipe-card {
   display: grid;
   grid-template-columns: 1fr;
-  grid-template-rows: 40vh auto;
+  grid-template-rows: 30vh auto;
   max-width: 800px;
   margin: 1em 0;
 }

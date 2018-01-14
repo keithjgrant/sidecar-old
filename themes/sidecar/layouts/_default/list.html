@@ -9,6 +9,7 @@
   <div class="list-container list-container--{{.Section}}">
     <h1 class="list-heading">{{ .Title }}</h1>
     <div class="post-list post-list--{{.Section}}">
+      {{ .Content }}
       {{- if .Paginator.HasPrev -}}
         <div class="post-list__pagination">
           <a rel="prev" href="{{.Paginator.Prev.URL}}">load newer posts</a>

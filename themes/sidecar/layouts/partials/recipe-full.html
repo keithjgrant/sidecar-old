@@ -4,7 +4,7 @@
       {{ if .Params.image }}
         <img src="{{.Params.image.url}}"
           alt="{{.Params.image.alt}}"
-          {{ if .Params.image.align}} style="object-fit: {{.Params.image.align}}"{{end}}/>
+          {{ if .Params.image.align}} style="object-position: {{.Params.image.align}}"{{end}}/>
       {{ else }}
         <img src="/images/bar-wall.jpg"
           alt="Shelves of a bar stocked with racks of liquor bottles"/>
@@ -28,6 +28,7 @@
       <div class="content-recipe e-instructions">
         {{.Content}}
       </div>
+      <date class="dt-published">Published {{dateFormat "02 Jan 2006" .Date.Local}}</date>
     </div>
   </div>
 </main>
