@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+  {{- partial "meta.html" . -}}
+</head>
+<body class="h-feed">
+  {{- partial "header.html" . -}}
+
+  <div class="list-container list-container--{{.Section}}">
+    <h1 class="list-heading">All Drinks</h1>
+    <div class="compact-list compact-list--{{.Section}}">
+      {{ .Content }}
+      {{- range (where .Site.Pages.ByTitle "Section" "drinks") -}}
+        {{- if not (eq .URL "/drinks/") }}
+        <a class="compact-list__item h-entry" href="{{.URL}}">
+          {{ .Title }}
+        </a>
+        {{- end -}}
+      {{- end -}}
+    </div>
+  </div>
+
+  {{- partial "footer.html" . -}}
+</body>
+</html>
