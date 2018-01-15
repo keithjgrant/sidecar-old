@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sidecar.keithjgrant.com/about/</loc>
+    <lastmod>2018-01-14T21:11:14-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sidecar.keithjgrant.com/drinks/manhattan/</loc>
     <lastmod>2018-01-13T11:31:10-05:00</lastmod>
   </url>
@@ -121,7 +126,7 @@
   
   <url>
     <loc>https://sidecar.keithjgrant.com/</loc>
-    <lastmod>2018-01-13T11:31:10-05:00</lastmod>
+    <lastmod>2018-01-14T21:11:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   

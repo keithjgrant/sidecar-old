@@ -1,6 +1,5 @@
 .compact-list {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
 
   & > * {
     display: block;
@@ -24,8 +23,9 @@
   transform: scale(1.05);
 }
 
-@media (min-width: 416px) {
+@media (min-width: 450px) {
   .compact-list {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     grid-gap: 1em;
   }
 }

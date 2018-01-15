@@ -12,7 +12,10 @@ html {
 }
 
 body {
+  position: relative;
+  min-height: 100vh;
   margin: 0;
+  padding-bottom: 4rem;
   color: $gray-3;
   background-color: $orange-9;
   font-family: Raleway, Tahoma, sans-serif;
