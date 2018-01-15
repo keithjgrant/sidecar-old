@@ -13,7 +13,6 @@
   align-items: center;
   justify-content: center;
   grid-column: full;
-  /* grid-row: span 3; */
   text-align: center;
 
   & h1 {
@@ -27,7 +26,6 @@
 
 .hp__drinks {
   grid-column: full;
-  /* grid-row: span 2; */
   font-size: 2rem;
 }
 
@@ -51,19 +49,46 @@
 }
 
 .hp__recent {
-  display: block;
+  display: grid;
   grid-column: full;
+  grid-template-rows: auto 2fr;
   font-family: inherit;
 
   & > h2 {
+    margin: 0;
+    padding-top: 0.5em;
     font-family: inherit;
     font-size: 1em;
     text-align: center;
+    align-self: end;
   }
 }
 
-.hp__recent__list {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 1em;
+@media (min-width: 500px) {
+  .hp-grid {
+    grid-template-columns: [full-start] 2fr 1fr 1fr 2fr [full-end];
+    grid-template-rows: 3fr 1fr 1fr 1fr 1.5fr;
+  }
+
+  .hp__drinks {
+    grid-column: 1 / 4;
+    grid-row: span 2;
+  }
+
+  .hp__tags,
+  .hp_techniques {
+    grid-column: 4 / 5;
+  }
+
+  .hp__ingredients,
+  .hp__about {
+    grid-column: span 2;
+  }
+}
+
+@media (min-width: 800px) {
+  .hp-grid {
+    max-width: 800px;
+    margin: 1em auto;
+  }
 }

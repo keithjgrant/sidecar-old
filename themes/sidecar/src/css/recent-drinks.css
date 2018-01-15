@@ -1,0 +1,17 @@
+.recent-drinks {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 1em;
+  margin-top: 0.5em;
+
+  & > a {
+    background-size: cover;
+    color: $gray-2;
+    text-decoration: none;
+    text-align: center;
+  }
+}
+
+.recent-drinks__title {
+  background: rgba(255, 255, 255, 0.7);
+}

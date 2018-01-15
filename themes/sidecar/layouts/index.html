@@ -20,10 +20,18 @@
     <a class="hp__about hp__tile" href="/about/">About</a>
     <div class="hp__recent">
       <h2>Recently added cocktails:</h2>
-      <div class="hp__recent__list">
+      <div class="recent-drinks">
         {{ range first 3 (where .Site.Pages "Section" "drinks") }}
-          <a class="hp__tile" href={{ .URL }}>
-            {{- .Title -}}
+          <a href="{{ .URL }}"
+            {{- if .Params.image -}}
+              style="background-image: url({{.Params.image.url}});
+              {{- if .Params.image.align -}}
+              background-position: {{.Params.image.align}}
+              {{- end -}}"
+          {{- else -}}
+            style="background-image: url(/images/bar-wall.jpg)"
+          {{- end -}})>
+            <div class="recent-drinks__title">{{- .Title -}}</div>
           </a>
         {{ end }}
       </div>
