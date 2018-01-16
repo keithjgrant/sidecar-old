@@ -2,14 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sidecar</title>
-    <link>https://sidecar.keithjgrant.com/</link>
+    <link>https://sidecar.keithjgrant.com/index.xml</link>
     <description>Recent content on Sidecar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jan 2018 21:11:14 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jan 2018 13:07:23 -0500</lastBuildDate>
+    <atom:link href="https://sidecar.keithjgrant.com/index.xml" rel="self" type="application/rss+xml" />
     
-	<atom:link href="https://sidecar.keithjgrant.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Straining</title>
+      <link>https://sidecar.keithjgrant.com/techniques/straining/</link>
+      <pubDate>Mon, 15 Jan 2018 13:07:23 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/techniques/straining/</guid>
+      <description>
+
+&lt;p&gt;TODO&lt;/p&gt;
+
+&lt;h2 id=&#34;double-straining&#34;&gt;Double Straining&lt;/h2&gt;
+</description>
+    </item>
     
+    <item>
+      <title>Old Fashioned</title>
+      <link>https://sidecar.keithjgrant.com/drinks/old-fashioned/</link>
+      <pubDate>Mon, 15 Jan 2018 11:30:58 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/drinks/old-fashioned/</guid>
+      <description>
+&lt;div class=&#34;recipe-intro p-summary&#34;&gt;Some people will argue an Old Fashioned must be made with a sugar cube. Those people haven’t tried it with &lt;a href=&#34;https://sidecar.keithjgrant.com/ingredients/burnt-sugar-syrup&#34;&gt;burnt sugar syrup&lt;/a&gt;.&lt;/div&gt;
+
+
+&lt;ul class=&#34;ingredients&#34;&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2 oz rye whiskey&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;¾ oz burnt sugar syrup&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2 dashes Angostura bitters&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2 dashes orange bitters&lt;/li&gt;&lt;/ul&gt;
+
+
+
+&lt;div class=&#34;instructions e-instructions&#34;&gt;
+  Add ice to a rocks glass. Add the bitters, then the whiskey and burnt sugar syrup. The syrup will sink to the bottom, so give it a quick stir to mix.&lt;/p&gt;
+
+&lt;p&gt;Cut an think slice of orange peel. Express the oils over the drink, then rub it around the rim of the glass and place it in the glass.
+&lt;/div&gt;
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>Mimosa</title>
+      <link>https://sidecar.keithjgrant.com/drinks/mimosa/</link>
+      <pubDate>Mon, 15 Jan 2018 11:17:50 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/drinks/mimosa/</guid>
+      <description>
+&lt;div class=&#34;recipe-intro p-summary&#34;&gt;If you want a Mimosa, make a &lt;a href=&#34;https://sidecar.keithjgrant.com/drinks/vigo/&#34;&gt;Vigo&lt;/a&gt; instead. You’re welcome.&lt;/div&gt;
+
+
+</description>
+    </item>
     
     <item>
       <title>About Sidecar</title>
@@ -17,8 +66,18 @@
       <pubDate>Sun, 14 Jan 2018 21:11:14 -0500</pubDate>
       
       <guid>https://sidecar.keithjgrant.com/about/</guid>
-      <description>I enjoy making cocktails, but I’m not a fan of cocktail recipe books. I own one with 1,200 recipes. Half of them are terrible and others&amp;mdash;well, let’s just say I don’t want four recipes for a particular drink. I want the recipe for it.
-Sidecar is different. These are only recipes that I have personally tested and enjoyed. Some of these are exactly as I found them. Others I have tinkered with.</description>
+      <description>
+
+&lt;p&gt;I enjoy making cocktails, but I’m not a fan of cocktail recipe books. I own one with 1,200 recipes. Half of them are terrible and others&amp;mdash;well, let’s just say I don’t want four recipes for a particular drink. I want &lt;em&gt;the&lt;/em&gt; recipe for it.&lt;/p&gt;
+
+&lt;p&gt;Sidecar is different. These are only recipes that I have personally tested and enjoyed. Some of these are exactly as I found them. Others I have tinkered with. And a few I have &lt;a href=&#34;https://sidecar.keithjgrant.com/tags/sidecar-original&#34;&gt;created myself&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;about-the-recipes&#34;&gt;About the Recipes&lt;/h2&gt;
+
+&lt;p&gt;This is first and foremost &lt;em&gt;my&lt;/em&gt; collection of cocktails. Some are very traditional. Some deviate wildly from tradition. I figure I might as well put it out here for anyone else who might enjoy it as well. Hopefully you’ll enjoy them as well.&lt;/p&gt;
+
+&lt;p&gt;If you’re new to cocktails, be sure you are familiar with the three techniques for making drinks: &lt;a href=&#34;https://sidecar.keithjgrant.com/techniques/shake/&#34;&gt;shaken&lt;/a&gt;, &lt;a href=&#34;https://sidecar.keithjgrant.com/techniques/stir/&#34;&gt;stirred&lt;/a&gt;, and &lt;a href=&#34;https://sidecar.keithjgrant.com/techniques/build/&#34;&gt;built&lt;/a&gt;. I’ll also be adding entries for other important mixology skills.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -27,9 +86,19 @@ Sidecar is different. These are only recipes that I have personally tested and e
       <pubDate>Sat, 13 Jan 2018 11:31:10 -0500</pubDate>
       
       <guid>https://sidecar.keithjgrant.com/drinks/manhattan/</guid>
-      <description> 2 oz rye whiskey1 oz sweet vermouth2 dashes Angostura bitters Combine in a shaker with ice. Stir, then strain into a coupe glass.
-Garnish with a Maraschino cherry.
- </description>
+      <description>
+&lt;ul class=&#34;ingredients&#34;&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2 oz rye whiskey&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;1 oz sweet vermouth&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2 dashes Angostura bitters&lt;/li&gt;&lt;/ul&gt;
+
+
+
+&lt;div class=&#34;instructions e-instructions&#34;&gt;
+  Combine in a shaker with ice. Stir, then strain into a coupe glass.&lt;/p&gt;
+
+&lt;p&gt;Garnish with a Maraschino cherry.
+&lt;/div&gt;
+
+
+</description>
     </item>
     
     <item>
@@ -38,11 +107,25 @@ Garnish with a Maraschino cherry.
       <pubDate>Sat, 13 Jan 2018 11:30:58 -0500</pubDate>
       
       <guid>https://sidecar.keithjgrant.com/drinks/martini/</guid>
-      <description> Everyone has an opinion about martinis. I’ll spare you mine, and just give you my recipe. Trust me.
-I often use a blanc vermouth instead of the traditional dry, but it’s delicious with either.
- 2¼ oz sweet gin¾ oz dry vermouth Add to cocktail shaker with plenty of ice. Stir well, then strain into a martini glass.
-Garnish with a lemon twist.
- </description>
+      <description>
+&lt;div class=&#34;recipe-intro p-summary&#34;&gt;Everyone has an opinion about martinis. I’ll spare you mine, and just give you my recipe. Trust me.&lt;/p&gt;
+
+&lt;p&gt;I often use a blanc vermouth instead of the traditional dry, but it’s delicious with either. Any &lt;a href=&#34;https://sidecar.keithjgrant.com/ingredients/gin/&#34;&gt;type of gin&lt;/a&gt; works in a martini, but I prefer a sweeter style.&lt;/div&gt;
+
+
+
+&lt;ul class=&#34;ingredients&#34;&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2¼ oz genever gin&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;¾ oz dry vermouth&lt;/li&gt;&lt;/ul&gt;
+
+
+
+&lt;div class=&#34;instructions e-instructions&#34;&gt;
+  Add to cocktail shaker with plenty of ice. Stir well, then strain into a martini glass.&lt;/p&gt;
+
+&lt;p&gt;Garnish with a lemon twist.
+&lt;/div&gt;
+
+
+</description>
     </item>
     
     <item>
@@ -51,8 +134,22 @@ Garnish with a lemon twist.
       <pubDate>Fri, 12 Jan 2018 21:27:58 -0500</pubDate>
       
       <guid>https://sidecar.keithjgrant.com/drinks/negroni/</guid>
-      <description>The Negroni is my favorite drink. It’s quite sweet, but also bitter and complex. I make mine with Tanquery gin and Cocchi di Torino vermouth. It can also be served on the rocks, but I prefer it neat. 1 oz London dry gin1 oz Campari1 oz Sweet vermouth Add all ingredients to a shaker along with plenty of ice. Stir for 15–20 seconds. Strain into a coupe glass.
-Garnish with an orange twist.</description>
+      <description>
+&lt;div class=&#34;recipe-intro p-summary&#34;&gt;The Negroni is my favorite drink. It’s quite sweet, but also bitter and complex. I make mine with Tanquery gin and Cocchi di Torino vermouth. It can also be served on the rocks, but I prefer it neat.&lt;/div&gt;
+
+
+&lt;ul class=&#34;ingredients&#34;&gt;&lt;li class=&#34;p-ingredient&#34;&gt;1 oz London dry gin&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;1 oz Campari&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;1 oz Sweet vermouth&lt;/li&gt;&lt;/ul&gt;
+
+
+
+&lt;div class=&#34;instructions e-instructions&#34;&gt;
+  Add all ingredients to a shaker along with plenty of ice. Stir for 20&amp;ndash;30 seconds. Strain into a coupe glass.&lt;/p&gt;
+
+&lt;p&gt;Garnish with an orange twist.
+&lt;/div&gt;
+
+
+</description>
     </item>
     
     <item>
@@ -61,7 +158,42 @@ Garnish with an orange twist.</description>
       <pubDate>Mon, 08 Jan 2018 13:09:29 -0500</pubDate>
       
       <guid>https://sidecar.keithjgrant.com/ingredients/gin/</guid>
-      <description></description>
+      <description>&lt;p&gt;Gin is a liquor flavored with juniper berries. When you think of gin, you most likely picture a London Dry gin, such as Tanqueray. Not all gins are created equal, however. In many cocktails, using the right type of gin is essential.
+&lt;/p&gt;
+
+&lt;p&gt;There are &lt;a href=&#34;https://www.bonappetit.com/story/different-types-of-gin&#34;&gt;four general categories of gin&lt;/a&gt;. Some people will subdivide this further&amp;mdash;in my recipes, I try to keep my definitions broader to leave more room for interpretation and experimentation.&lt;/p&gt;
+
+&lt;p&gt;If you want to get a good feel for any of these types of gin, use it in a &lt;a href=&#34;https://sidecar.keithjgrant.com/drinks/martini/&#34;&gt;martini&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;london-dry-gin&#34;&gt;London Dry Gin&lt;/h2&gt;
+
+&lt;p&gt;This is the most commonly-known type of gin. In &lt;em&gt;London Dry&lt;/em&gt; gin, the juniper flavor is dominant. It’ typically the least sweet of the gins. Common brands include Tanqueray, Beefeater, and Bombay Sapphire.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sidecar.keithjgrant.com/tags/london-dry-gin/&#34;&gt;Drinks tagged london-dry-gin&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;genever-gin&#34;&gt;Genever Gin&lt;/h2&gt;
+
+&lt;p&gt;On the opposite end of the spectrum is &lt;em&gt;Genever&lt;/em&gt; (or &lt;em&gt;Jenever&lt;/em&gt; or &lt;em&gt;Dutch Style&lt;/em&gt;) Gin. This is the oldest style of gin. It still uses juniper, but it is balanced with a wide array of other botanical flavors. Genever gins may include flavors of vanilla, coriander, flowers, nutmeg, anise, or orange. It often tastes more malty than other gins.&lt;/p&gt;
+
+&lt;p&gt;In the European Union, only gins made in the Netherlands, Belgium, France, or Germany may be labelled as genever. The names &lt;em&gt;New American&lt;/em&gt; or &lt;em&gt;International&lt;/em&gt; style may be applied to similar gins produced elsewhere.&lt;/p&gt;
+
+&lt;p&gt;Hendrick’s and Bols Genever are two well-known Genever-style gin. My personal favorite gin, &lt;a href=&#34;http://www.aviationgin.com/&#34;&gt;Aviation&lt;/a&gt; also falls in this category.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sidecar.keithjgrant.com/tags/genever-gin/&#34;&gt;Drinks tagged genever-gin&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;old-tom-gin&#34;&gt;Old Tom Gin&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Old Tom&lt;/em&gt; gin is sweeter than a London Dry but has a more dominant juniper flavor than many Genever gins. It tends to fall in the middle of the road between the two.&lt;/p&gt;
+
+&lt;p&gt;Look for Hayman’s or Ransom brands.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sidecar.keithjgrant.com/tags/old-tom-gin/&#34;&gt;Drinks tagged old-tom-gin&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;plymouth-gin&#34;&gt;Plymouth Gin&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Plymouth&lt;/em&gt; gin is dryer than London Dry gin, but has a stronger citrus flavor and a spicier finish. There is only one brand of Plymouth gin and it’s Plymouth.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sidecar.keithjgrant.com/tags/plymouth-gin/&#34;&gt;Drinks tagged plymouth-gin&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -71,43 +203,126 @@ Garnish with an orange twist.</description>
       
       <guid>https://sidecar.keithjgrant.com/ingredients/vermouth/</guid>
       <description>&lt;p&gt;Vermouth is type of fortified wine with added hints of various herbs and spices. It’s a common ingredient in many cocktails, the most well-known being the &lt;a href=&#34;https://sidecar.keithjgrant.com/drinks/martini&#34;&gt;martini&lt;/a&gt;.
-&lt;/p&gt;</description>
+&lt;/p&gt;
+
+&lt;h2 id=&#34;types-of-vermouth&#34;&gt;Types of Vermouth&lt;/h2&gt;
+
+&lt;p&gt;The two most common types of vermouth are &lt;em&gt;dry&lt;/em&gt; and &lt;em&gt;sweet&lt;/em&gt;. Dry vermouths are light in color, often with a hint of yellow. The quintessential dry vermouth drink is the &lt;a href=&#34;https://sidecar.keithjgrant.com/drinks/martini&#34;&gt;martini&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Sweet vermouths, often labelled “Rosso”, are reddish in color and sweeter tasting than dry vermouths. The best-known sweet vermouth drink is the &lt;a href=&#34;https://sidecar.keithjgrant.com/drinks/manhattan&#34;&gt;manhattan&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Another less common type of vermouth are “blanc” or “bianco”. Blanc vermouth is clear in color, but sweeter in flavor than a dry vermouth. These are delicous and in some ways similar to Sherry.&lt;/p&gt;
+
+&lt;h3 id=&#34;brands&#34;&gt;Brands&lt;/h3&gt;
+
+&lt;p&gt;The most readily-available brand of vermouth (in the U.S.) is &lt;em&gt;Martini &amp;amp; Rossi&lt;/em&gt;. Their dry vermouth is passable, but there are far better options available. Their sweet vermouth is overly medicinal and a quick way to ruin a drink.&lt;/p&gt;
+
+&lt;p&gt;Vermouth is often under-appreciated, largely because old bottles of Martini &amp;amp; Rossi are all you will find in most home liquor cabinets. I recommend the following brands (my favorites at the top). You may need to visit a larger liquor store to find them.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Dolin&lt;/li&gt;
+&lt;li&gt;Cocchi&lt;/li&gt;
+&lt;li&gt;Carpano&lt;/li&gt;
+&lt;li&gt;Lillet&lt;/li&gt;
+&lt;li&gt;Noilly Prat&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;storing-vermouth&#34;&gt;Storing Vermouth&lt;/h2&gt;
+
+&lt;p&gt;Vermouth is made from wine, so &lt;strong&gt;it goes bad&lt;/strong&gt;! Once you’ve opened a bottle, store it in your fridge. It will be good there for about three months.&lt;/p&gt;
+
+&lt;p&gt;If you’re unsure, taste a little. If it tastes bad, it’s bad. If you have an old dusty bottle on your shelf, throw it away.&lt;/p&gt;
+
+&lt;p&gt;Once you have some fresh, high quality vermouth, try out a &lt;a href=&#34;https://sidecar.keithjgrant.com/drinks/french-kiss&#34;&gt;French Kiss&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>twist</title>
-      <link>https://sidecar.keithjgrant.com/technique/twist/</link>
+      <link>https://sidecar.keithjgrant.com/techniques/twist/</link>
       <pubDate>Mon, 08 Jan 2018 13:07:50 -0500</pubDate>
       
-      <guid>https://sidecar.keithjgrant.com/technique/twist/</guid>
+      <guid>https://sidecar.keithjgrant.com/techniques/twist/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>build</title>
-      <link>https://sidecar.keithjgrant.com/technique/build/</link>
+      <title>Building</title>
+      <link>https://sidecar.keithjgrant.com/techniques/building/</link>
       <pubDate>Mon, 08 Jan 2018 13:07:27 -0500</pubDate>
       
-      <guid>https://sidecar.keithjgrant.com/technique/build/</guid>
-      <description></description>
+      <guid>https://sidecar.keithjgrant.com/techniques/building/</guid>
+      <description>&lt;p&gt;There are three techniques for making a cocktail: building, &lt;a href=&#34;https://sidecar.keithjgrant.com/techniques/shaking&#34;&gt;shaking&lt;/a&gt;, and &lt;a href=&#34;https://sidecar.keithjgrant.com/techniques/stirring&#34;&gt;stirring&lt;/a&gt;. It’s important to know when to use which method.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Building&lt;/em&gt; a cocktail is the easiest method. Start by adding ice to the serving glass (if needed), then measure the ingredients one-by-one and pour them over the ice. Sometimes a quick stir is needed to incorate the ingredients together. Finally, top with any garnish.&lt;/p&gt;
+
+&lt;p&gt;Highball drinks are built, such as Jack &amp;amp; Coke, Seven &amp;amp; Seven, and &lt;a href=&#34;https://sidecar.keithjgrant.com/drinks/gin-and-tonic/&#34;&gt;Gin &amp;amp; Tonic&lt;/a&gt;. A handful of other cocktails are typically built as well, including the &lt;a href=&#34;https://sidecar.keithjgrant.com/drinks/old-fashioned/&#34;&gt;Old Fashioned&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sidecar.keithjgrant.com/tags/built/&#34;&gt;Drinks tagged built&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>stir</title>
-      <link>https://sidecar.keithjgrant.com/technique/stir/</link>
+      <title>Stirring</title>
+      <link>https://sidecar.keithjgrant.com/techniques/stirring/</link>
       <pubDate>Mon, 08 Jan 2018 13:07:23 -0500</pubDate>
       
-      <guid>https://sidecar.keithjgrant.com/technique/stir/</guid>
-      <description></description>
+      <guid>https://sidecar.keithjgrant.com/techniques/stirring/</guid>
+      <description>&lt;p&gt;There are three techniques for making a cocktail: &lt;a href=&#34;https://sidecar.keithjgrant.com/techniques/building/&#34;&gt;building&lt;/a&gt;, &lt;a href=&#34;https://sidecar.keithjgrant.com/techniques/shaking/&#34;&gt;shaking&lt;/a&gt;, and stirring. It’s important to know when to use which method.
+&lt;/p&gt;
+
+&lt;p&gt;Stirring a drink sounds easy. But of the three techniques, stirring a drink takes the most practice to get right. Here’s how it’s done (or watch &lt;a href=&#34;https://www.youtube.com/watch?v=KCusyYyoltA&#34;&gt;this video&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Measure the ingredients and pour them into the base of a cocktail shaker or into a mixing glass. Then add plenty of ice. There needs to be enough ice that the weight of ice on top pushes the rest of the ice to the bottom of the shaker, not just floating on top. This is important to increase the amount of ice that’s in contact with the drink.&lt;/p&gt;
+
+&lt;p&gt;Insert a bar spoon along the edge of the shaker so that the back edge of the spoon is touching the metal (or glass). Hold the bar spoon loosely between your second and third fingers, allowing to to spin freely as you stir. By curling then extending your fingers, you should be able to pull the bar spoon toward you with your bottom of your index and middle finger, then push it away from you with the tops of your ring and pinky fingers. The spoon should rotate around the edges of the mixing glass, with the back of the spoon in constant contact with the glass. This should spin the ice smoothly, without rattling it around. Rattling the ice can break off small chips of ice that over-dilute the drink.&lt;/p&gt;
+
+&lt;h2 id=&#34;practice-makes-perfect&#34;&gt;Practice Makes Perfect&lt;/h2&gt;
+
+&lt;p&gt;It takes some practice to get familiar with this motion. When I first started, I had a cheap, flimsy bar spoon, and I had a hard time getting a feel for it. It was easier after I upgraded to one that is evenly weighted so I was pushing and pulling it near its center of gravity. (&lt;a href=&#34;https://www.amazon.com/gp/product/B00IRY8CJ2/&#34;&gt;This is the bar spoon&lt;/a&gt; I use.)&lt;/p&gt;
+
+&lt;p&gt;You should stir the drink for 20&amp;ndash;30 seconds. This is longer than you think, so use a timer or count slowly in your head until you get a feel for it. Stirring will melt the ice into the drink, chilling it and diluting it appropriately. The longer you stir, the more dilution you will get, but unless you stir for a very long time, this will still introduce less water than &lt;a href=&#34;https://sidecar.keithjgrant.com/techniques/shaking/&#34;&gt;shaking&lt;/a&gt;. It’s important to melt enough water into the drink or it won’t be properly balanced&amp;mdash;just try a &lt;a href=&#34;https://sidecar.keithjgrant.com/drinks/negroni/&#34;&gt;Negroni&lt;/a&gt; that hasn’t been stirred enough; it’s not very good.&lt;/p&gt;
+
+&lt;p&gt;Finally, strain the drink into the serving glass and add the garnish.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sidecar.keithjgrant.com/tags/stirred/&#34;&gt;Drinks tagged stirred&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>shake</title>
-      <link>https://sidecar.keithjgrant.com/technique/shake/</link>
+      <title>Shaking</title>
+      <link>https://sidecar.keithjgrant.com/techniques/shaking/</link>
       <pubDate>Mon, 08 Jan 2018 13:07:20 -0500</pubDate>
       
-      <guid>https://sidecar.keithjgrant.com/technique/shake/</guid>
-      <description></description>
+      <guid>https://sidecar.keithjgrant.com/techniques/shaking/</guid>
+      <description>&lt;p&gt;There are three techniques for making a cocktail: &lt;a href=&#34;https://sidecar.keithjgrant.com/techniques/building/&#34;&gt;building&lt;/a&gt;, shaking, and &lt;a href=&#34;https://sidecar.keithjgrant.com/techniques/stirring/&#34;&gt;stirring&lt;/a&gt;. It’s important to know when to use which method.
+&lt;/p&gt;
+
+&lt;p&gt;To &lt;em&gt;Shake&lt;/em&gt; a cocktail, measure the ingredients and add them to a cocktail shaker, along with plenty of ice. If the drink is to be served on the rocks, add fresh ice to the glass, too. Put the top on the shaker, then holding it with both hands, shake it above your shoulder. Shake for about ten seconds, or until the shaker frosts up thoroughly. Then &lt;a href=&#34;https://sidecar.keithjgrant.com/techniques/straining/&#34;&gt;strain the drink&lt;/a&gt; into the glass.&lt;/p&gt;
+
+&lt;p&gt;Shaken drinks are typically those that contain anything other than pure alcohol. If a recipe calls for any juice (such as lemon or lime), cream, or egg white, it should be shaken.&lt;/p&gt;
+
+&lt;p&gt;Some shaken drinks, such as a &lt;a href=&#34;https://sidecar.keithjgrant.com/drinks/french-75/&#34;&gt;French 75&lt;/a&gt;, call for sparkling wine. When this is the case, add all the liquids &lt;em&gt;except&lt;/em&gt; the sparkling wine to the shaker. Shake as normal and strain into the glass. Then top with the sparkling wine and add any garnish.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-purpose-of-shaking&#34;&gt;The Purpose of Shaking&lt;/h2&gt;
+
+&lt;p&gt;Shaking a cocktail does two things: it melts ice into the drink and it adds texture. Melting ice simultaneously chills the drink and adds water to it. Shaking is the fastest way to do that. Shaking a cocktail will typically add around 1 oz of water, give or take.&lt;/p&gt;
+
+&lt;p&gt;The texture is also important. Shaking froths up the drink with small air bubbles. This makes it feel slightly thicker on the tongue. After shaking the drink, these bubbles will start to break up, so serve the drink while it’s fresh. Ingredients that contain protein (such as egg white or honey) will strengthen these bubbles, making the drink frothier and longer-lasting in the glass.&lt;/p&gt;
+
+&lt;h2 id=&#34;dry-shaking&#34;&gt;Dry Shaking&lt;/h2&gt;
+
+&lt;p&gt;Dry shaking is a method to add extra froth to the top of the drink. Most drinks containing egg benefit from dry shaking. (It also helps break up the egg and incorporate it into the drink better.)&lt;/p&gt;
+
+&lt;p&gt;To dry shake, first add the ingredients to the shaker &lt;em&gt;without any ice&lt;/em&gt;. Hold the shaker closed tightly and shake vigorously for at least 10 seconds, but preferably as long as 20 or 30 seconds. The longer you shake, the more froth will build up. Then, open up the shaker and add the ice. Close it up and give it another good shake for around ten seconds. Then strain into the serving glass.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Be careful&lt;/strong&gt; when dry shaking. Normal shaking with ice chills the drink, making it contract, which creates a suction and holds your shaker closed. Without the ice, there is no suction, so the shaker is much more prone to come open while shaking. I have made a lot of messes dry shaking.&lt;/p&gt;
+
+&lt;h3 id=&#34;reverse-dry-shaking&#34;&gt;Reverse Dry Shaking&lt;/h3&gt;
+
+&lt;p&gt;Reverse dry shaking is a method to increase the amount of froth on top of the drink even more. First shake &lt;em&gt;with&lt;/em&gt; ice, then strain out the ice and shake the drink again &lt;em&gt;without&lt;/em&gt; ice.&lt;/p&gt;
+
+&lt;p&gt;In theory, this will produce more froth after ice has been diluted in the drink, so the ice doesn&amp;rsquo;t start to break some of the froth up. In my experience, I have a hard time telling whether this works better than a normal dry shake. It’s a bit of a hassle to strain out the ice between shakes, but it does seem to maintain suction in the shaker during the no-ice shake, meaning fewer spills.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sidecar.keithjgrant.com/tags/shaken/&#34;&gt;Drinks tagged shaken&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -116,27 +331,37 @@ Garnish with an orange twist.</description>
       <pubDate>Mon, 08 Jan 2018 12:21:43 -0500</pubDate>
       
       <guid>https://sidecar.keithjgrant.com/drinks/french-kiss/</guid>
-      <description> As always, use only high quality vermouth that is fresh (less than three months old). 2 oz sweet vermouth2 oz dry vermouth Build in a rocks glass. Garnish with a lemon twist.  </description>
+      <description>
+&lt;div class=&#34;recipe-intro p-summary&#34;&gt;As always, use only &lt;a href=&#34;https://sidecar.keithjgrant.com/ingredients/vermouth/#brands&#34;&gt;high quality vermouth&lt;/a&gt; that is &lt;a href=&#34;https://sidecar.keithjgrant.com/ingredients/vermouth/#storing-vermouth&#34;&gt;fresh&lt;/a&gt; (less than three months old).&lt;/div&gt;
+
+
+&lt;ul class=&#34;ingredients&#34;&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2 oz sweet vermouth&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2 oz dry vermouth&lt;/li&gt;&lt;/ul&gt;
+
+
+&lt;div class=&#34;instructions e-instructions&#34;&gt;
+  Build in a rocks glass. Garnish with a lemon twist.
+&lt;/div&gt;
+
+
+</description>
     </item>
     
     <item>
-      <title>Sidecar</title>
-      <link>https://sidecar.keithjgrant.com/drinks/sidecar/</link>
+      <title>Daiquiri</title>
+      <link>https://sidecar.keithjgrant.com/drinks/daiqueri/</link>
       <pubDate>Mon, 08 Jan 2018 11:17:50 -0500</pubDate>
       
-      <guid>https://sidecar.keithjgrant.com/drinks/sidecar/</guid>
-      <description> The simple syrup isn’t traditional, but I like this with a touch of additional sweetness. 2 oz Cognac¾ oz orange liquer¾ oz lemon juice¼ oz simple syrup Shake vigorously with ice. Strain into a coupe glass.
-Garnish with an orange twist, discarded.
- </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://sidecar.keithjgrant.com/tags/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sidecar.keithjgrant.com/tags/</guid>
-      <description></description>
+      <guid>https://sidecar.keithjgrant.com/drinks/daiqueri/</guid>
+      <description>
+&lt;ul class=&#34;ingredients&#34;&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2 oz white rum&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;¾ oz lime juice&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;¾ oz simple syrup&lt;/li&gt;&lt;/ul&gt;
+
+
+&lt;div class=&#34;instructions e-instructions&#34;&gt;
+  Add all ingredients to a cocktail shaker with plenty of ice. Shake well and strain into a coupe glass.
+&lt;/div&gt;
+
+
+</description>
     </item>
     
   </channel>

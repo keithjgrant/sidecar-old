@@ -2,14 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Built on Sidecar</title>
-    <link>https://sidecar.keithjgrant.com/tags/built/</link>
+    <link>https://sidecar.keithjgrant.com/tags/built/index.xml</link>
     <description>Recent content in Built on Sidecar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jan 2018 12:21:43 -0500</lastBuildDate>
+    <atom:link href="https://sidecar.keithjgrant.com/tags/built/index.xml" rel="self" type="application/rss+xml" />
     
-	<atom:link href="https://sidecar.keithjgrant.com/tags/built/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Old Fashioned</title>
+      <link>https://sidecar.keithjgrant.com/drinks/old-fashioned/</link>
+      <pubDate>Mon, 15 Jan 2018 11:30:58 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/drinks/old-fashioned/</guid>
+      <description>
+&lt;div class=&#34;recipe-intro p-summary&#34;&gt;Some people will argue an Old Fashioned must be made with a sugar cube. Those people haven’t tried it with &lt;a href=&#34;https://sidecar.keithjgrant.com/ingredients/burnt-sugar-syrup&#34;&gt;burnt sugar syrup&lt;/a&gt;.&lt;/div&gt;
+
+
+&lt;ul class=&#34;ingredients&#34;&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2 oz rye whiskey&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;¾ oz burnt sugar syrup&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2 dashes Angostura bitters&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2 dashes orange bitters&lt;/li&gt;&lt;/ul&gt;
+
+
+
+&lt;div class=&#34;instructions e-instructions&#34;&gt;
+  Add ice to a rocks glass. Add the bitters, then the whiskey and burnt sugar syrup. The syrup will sink to the bottom, so give it a quick stir to mix.&lt;/p&gt;
+
+&lt;p&gt;Cut an think slice of orange peel. Express the oils over the drink, then rub it around the rim of the glass and place it in the glass.
+&lt;/div&gt;
+
+
+</description>
+    </item>
     
     <item>
       <title>French Kiss</title>
@@ -17,7 +38,19 @@
       <pubDate>Mon, 08 Jan 2018 12:21:43 -0500</pubDate>
       
       <guid>https://sidecar.keithjgrant.com/drinks/french-kiss/</guid>
-      <description> As always, use only high quality vermouth that is fresh (less than three months old). 2 oz sweet vermouth2 oz dry vermouth Build in a rocks glass. Garnish with a lemon twist.  </description>
+      <description>
+&lt;div class=&#34;recipe-intro p-summary&#34;&gt;As always, use only &lt;a href=&#34;https://sidecar.keithjgrant.com/ingredients/vermouth/#brands&#34;&gt;high quality vermouth&lt;/a&gt; that is &lt;a href=&#34;https://sidecar.keithjgrant.com/ingredients/vermouth/#storing-vermouth&#34;&gt;fresh&lt;/a&gt; (less than three months old).&lt;/div&gt;
+
+
+&lt;ul class=&#34;ingredients&#34;&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2 oz sweet vermouth&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2 oz dry vermouth&lt;/li&gt;&lt;/ul&gt;
+
+
+&lt;div class=&#34;instructions e-instructions&#34;&gt;
+  Build in a rocks glass. Garnish with a lemon twist.
+&lt;/div&gt;
+
+
+</description>
     </item>
     
   </channel>

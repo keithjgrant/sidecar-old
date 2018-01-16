@@ -17,14 +17,6 @@
         <li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
       {{ end }}
       </ul>
-      {{ if .Params.summary }}
-        <div class="recipe-summary p-summary">{{ .Params.summary }}</div>
-      {{ end }}
-      <ul class="ingredients">
-        {{ range .Params.ingredients }}
-        <li class="p-ingredient">{{ . }}</li>
-        {{ end }}
-      </ul>
       <div class="content-recipe e-instructions">
         {{.Content}}
       </div>

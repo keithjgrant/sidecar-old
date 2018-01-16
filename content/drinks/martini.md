@@ -3,6 +3,7 @@ title: "Martini"
 date: 2018-01-13T11:30:58-05:00
 tags: [
   "gin",
+  "genever-gin",
   "blanc-vermouth",
   "dry-vermouth",
   "stirred"
@@ -17,12 +18,12 @@ image:
 {{< summary >}}
 Everyone has an opinion about martinis. I’ll spare you mine, and just give you my recipe. Trust me.
 
-I often use a blanc vermouth instead of the traditional dry, but it’s delicious with either.
+I often use a blanc vermouth instead of the traditional dry, but it’s delicious with either. Any [type of gin](/ingredients/gin/) works in a martini, but I prefer a sweeter style.
 {{< /summary >}}
 
 
 {{< ingredients
-  "2¼ oz sweet gin"
+  "2¼ oz genever gin"
   "¾ oz dry vermouth"
 >}}
 

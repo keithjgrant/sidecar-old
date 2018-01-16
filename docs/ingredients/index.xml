@@ -2,14 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ingredients on Sidecar</title>
-    <link>https://sidecar.keithjgrant.com/ingredients/</link>
+    <link>https://sidecar.keithjgrant.com/ingredients/index.xml</link>
     <description>Recent content in Ingredients on Sidecar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Jan 2018 13:09:29 -0500</lastBuildDate>
-    
-	<atom:link href="https://sidecar.keithjgrant.com/ingredients/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://sidecar.keithjgrant.com/ingredients/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Gin</title>
@@ -17,7 +15,42 @@
       <pubDate>Mon, 08 Jan 2018 13:09:29 -0500</pubDate>
       
       <guid>https://sidecar.keithjgrant.com/ingredients/gin/</guid>
-      <description></description>
+      <description>&lt;p&gt;Gin is a liquor flavored with juniper berries. When you think of gin, you most likely picture a London Dry gin, such as Tanqueray. Not all gins are created equal, however. In many cocktails, using the right type of gin is essential.
+&lt;/p&gt;
+
+&lt;p&gt;There are &lt;a href=&#34;https://www.bonappetit.com/story/different-types-of-gin&#34;&gt;four general categories of gin&lt;/a&gt;. Some people will subdivide this further&amp;mdash;in my recipes, I try to keep my definitions broader to leave more room for interpretation and experimentation.&lt;/p&gt;
+
+&lt;p&gt;If you want to get a good feel for any of these types of gin, use it in a &lt;a href=&#34;https://sidecar.keithjgrant.com/drinks/martini/&#34;&gt;martini&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;london-dry-gin&#34;&gt;London Dry Gin&lt;/h2&gt;
+
+&lt;p&gt;This is the most commonly-known type of gin. In &lt;em&gt;London Dry&lt;/em&gt; gin, the juniper flavor is dominant. It’ typically the least sweet of the gins. Common brands include Tanqueray, Beefeater, and Bombay Sapphire.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sidecar.keithjgrant.com/tags/london-dry-gin/&#34;&gt;Drinks tagged london-dry-gin&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;genever-gin&#34;&gt;Genever Gin&lt;/h2&gt;
+
+&lt;p&gt;On the opposite end of the spectrum is &lt;em&gt;Genever&lt;/em&gt; (or &lt;em&gt;Jenever&lt;/em&gt; or &lt;em&gt;Dutch Style&lt;/em&gt;) Gin. This is the oldest style of gin. It still uses juniper, but it is balanced with a wide array of other botanical flavors. Genever gins may include flavors of vanilla, coriander, flowers, nutmeg, anise, or orange. It often tastes more malty than other gins.&lt;/p&gt;
+
+&lt;p&gt;In the European Union, only gins made in the Netherlands, Belgium, France, or Germany may be labelled as genever. The names &lt;em&gt;New American&lt;/em&gt; or &lt;em&gt;International&lt;/em&gt; style may be applied to similar gins produced elsewhere.&lt;/p&gt;
+
+&lt;p&gt;Hendrick’s and Bols Genever are two well-known Genever-style gin. My personal favorite gin, &lt;a href=&#34;http://www.aviationgin.com/&#34;&gt;Aviation&lt;/a&gt; also falls in this category.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sidecar.keithjgrant.com/tags/genever-gin/&#34;&gt;Drinks tagged genever-gin&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;old-tom-gin&#34;&gt;Old Tom Gin&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Old Tom&lt;/em&gt; gin is sweeter than a London Dry but has a more dominant juniper flavor than many Genever gins. It tends to fall in the middle of the road between the two.&lt;/p&gt;
+
+&lt;p&gt;Look for Hayman’s or Ransom brands.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sidecar.keithjgrant.com/tags/old-tom-gin/&#34;&gt;Drinks tagged old-tom-gin&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;plymouth-gin&#34;&gt;Plymouth Gin&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Plymouth&lt;/em&gt; gin is dryer than London Dry gin, but has a stronger citrus flavor and a spicier finish. There is only one brand of Plymouth gin and it’s Plymouth.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sidecar.keithjgrant.com/tags/plymouth-gin/&#34;&gt;Drinks tagged plymouth-gin&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -27,7 +60,37 @@
       
       <guid>https://sidecar.keithjgrant.com/ingredients/vermouth/</guid>
       <description>&lt;p&gt;Vermouth is type of fortified wine with added hints of various herbs and spices. It’s a common ingredient in many cocktails, the most well-known being the &lt;a href=&#34;https://sidecar.keithjgrant.com/drinks/martini&#34;&gt;martini&lt;/a&gt;.
-&lt;/p&gt;</description>
+&lt;/p&gt;
+
+&lt;h2 id=&#34;types-of-vermouth&#34;&gt;Types of Vermouth&lt;/h2&gt;
+
+&lt;p&gt;The two most common types of vermouth are &lt;em&gt;dry&lt;/em&gt; and &lt;em&gt;sweet&lt;/em&gt;. Dry vermouths are light in color, often with a hint of yellow. The quintessential dry vermouth drink is the &lt;a href=&#34;https://sidecar.keithjgrant.com/drinks/martini&#34;&gt;martini&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Sweet vermouths, often labelled “Rosso”, are reddish in color and sweeter tasting than dry vermouths. The best-known sweet vermouth drink is the &lt;a href=&#34;https://sidecar.keithjgrant.com/drinks/manhattan&#34;&gt;manhattan&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Another less common type of vermouth are “blanc” or “bianco”. Blanc vermouth is clear in color, but sweeter in flavor than a dry vermouth. These are delicous and in some ways similar to Sherry.&lt;/p&gt;
+
+&lt;h3 id=&#34;brands&#34;&gt;Brands&lt;/h3&gt;
+
+&lt;p&gt;The most readily-available brand of vermouth (in the U.S.) is &lt;em&gt;Martini &amp;amp; Rossi&lt;/em&gt;. Their dry vermouth is passable, but there are far better options available. Their sweet vermouth is overly medicinal and a quick way to ruin a drink.&lt;/p&gt;
+
+&lt;p&gt;Vermouth is often under-appreciated, largely because old bottles of Martini &amp;amp; Rossi are all you will find in most home liquor cabinets. I recommend the following brands (my favorites at the top). You may need to visit a larger liquor store to find them.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Dolin&lt;/li&gt;
+&lt;li&gt;Cocchi&lt;/li&gt;
+&lt;li&gt;Carpano&lt;/li&gt;
+&lt;li&gt;Lillet&lt;/li&gt;
+&lt;li&gt;Noilly Prat&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;storing-vermouth&#34;&gt;Storing Vermouth&lt;/h2&gt;
+
+&lt;p&gt;Vermouth is made from wine, so &lt;strong&gt;it goes bad&lt;/strong&gt;! Once you’ve opened a bottle, store it in your fridge. It will be good there for about three months.&lt;/p&gt;
+
+&lt;p&gt;If you’re unsure, taste a little. If it tastes bad, it’s bad. If you have an old dusty bottle on your shelf, throw it away.&lt;/p&gt;
+
+&lt;p&gt;Once you have some fresh, high quality vermouth, try out a &lt;a href=&#34;https://sidecar.keithjgrant.com/drinks/french-kiss&#34;&gt;French Kiss&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

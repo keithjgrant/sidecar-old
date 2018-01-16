@@ -3,6 +3,7 @@ title: "Negroni"
 date: 2018-01-12T21:27:58-05:00
 tags: [
   "gin",
+  "london-dry-gin",
   "sweet-vermouth",
   "stirred"
 ]
@@ -20,7 +21,7 @@ The Negroni is my favorite drink. It’s quite sweet, but also bitter and comple
 
 
 {{< instructions >}}
-Add all ingredients to a shaker along with plenty of ice. Stir for 15–20 seconds. Strain into a coupe glass.
+Add all ingredients to a shaker along with plenty of ice. Stir for 20&ndash;30 seconds. Strain into a coupe glass.
 
 Garnish with an orange twist.
 {{< /instructions >}}

@@ -2,14 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stirred on Sidecar</title>
-    <link>https://sidecar.keithjgrant.com/tags/stirred/</link>
+    <link>https://sidecar.keithjgrant.com/tags/stirred/index.xml</link>
     <description>Recent content in Stirred on Sidecar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Jan 2018 11:31:10 -0500</lastBuildDate>
-    
-	<atom:link href="https://sidecar.keithjgrant.com/tags/stirred/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://sidecar.keithjgrant.com/tags/stirred/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Manhattan</title>
@@ -17,9 +14,19 @@
       <pubDate>Sat, 13 Jan 2018 11:31:10 -0500</pubDate>
       
       <guid>https://sidecar.keithjgrant.com/drinks/manhattan/</guid>
-      <description> 2 oz rye whiskey1 oz sweet vermouth2 dashes Angostura bitters Combine in a shaker with ice. Stir, then strain into a coupe glass.
-Garnish with a Maraschino cherry.
- </description>
+      <description>
+&lt;ul class=&#34;ingredients&#34;&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2 oz rye whiskey&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;1 oz sweet vermouth&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2 dashes Angostura bitters&lt;/li&gt;&lt;/ul&gt;
+
+
+
+&lt;div class=&#34;instructions e-instructions&#34;&gt;
+  Combine in a shaker with ice. Stir, then strain into a coupe glass.&lt;/p&gt;
+
+&lt;p&gt;Garnish with a Maraschino cherry.
+&lt;/div&gt;
+
+
+</description>
     </item>
     
     <item>
@@ -28,11 +35,25 @@ Garnish with a Maraschino cherry.
       <pubDate>Sat, 13 Jan 2018 11:30:58 -0500</pubDate>
       
       <guid>https://sidecar.keithjgrant.com/drinks/martini/</guid>
-      <description> Everyone has an opinion about martinis. I’ll spare you mine, and just give you my recipe. Trust me.
-I often use a blanc vermouth instead of the traditional dry, but it’s delicious with either.
- 2¼ oz sweet gin¾ oz dry vermouth Add to cocktail shaker with plenty of ice. Stir well, then strain into a martini glass.
-Garnish with a lemon twist.
- </description>
+      <description>
+&lt;div class=&#34;recipe-intro p-summary&#34;&gt;Everyone has an opinion about martinis. I’ll spare you mine, and just give you my recipe. Trust me.&lt;/p&gt;
+
+&lt;p&gt;I often use a blanc vermouth instead of the traditional dry, but it’s delicious with either. Any &lt;a href=&#34;https://sidecar.keithjgrant.com/ingredients/gin/&#34;&gt;type of gin&lt;/a&gt; works in a martini, but I prefer a sweeter style.&lt;/div&gt;
+
+
+
+&lt;ul class=&#34;ingredients&#34;&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2¼ oz genever gin&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;¾ oz dry vermouth&lt;/li&gt;&lt;/ul&gt;
+
+
+
+&lt;div class=&#34;instructions e-instructions&#34;&gt;
+  Add to cocktail shaker with plenty of ice. Stir well, then strain into a martini glass.&lt;/p&gt;
+
+&lt;p&gt;Garnish with a lemon twist.
+&lt;/div&gt;
+
+
+</description>
     </item>
     
     <item>
@@ -41,8 +62,22 @@ Garnish with a lemon twist.
       <pubDate>Fri, 12 Jan 2018 21:27:58 -0500</pubDate>
       
       <guid>https://sidecar.keithjgrant.com/drinks/negroni/</guid>
-      <description>The Negroni is my favorite drink. It’s quite sweet, but also bitter and complex. I make mine with Tanquery gin and Cocchi di Torino vermouth. It can also be served on the rocks, but I prefer it neat. 1 oz London dry gin1 oz Campari1 oz Sweet vermouth Add all ingredients to a shaker along with plenty of ice. Stir for 15–20 seconds. Strain into a coupe glass.
-Garnish with an orange twist.</description>
+      <description>
+&lt;div class=&#34;recipe-intro p-summary&#34;&gt;The Negroni is my favorite drink. It’s quite sweet, but also bitter and complex. I make mine with Tanquery gin and Cocchi di Torino vermouth. It can also be served on the rocks, but I prefer it neat.&lt;/div&gt;
+
+
+&lt;ul class=&#34;ingredients&#34;&gt;&lt;li class=&#34;p-ingredient&#34;&gt;1 oz London dry gin&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;1 oz Campari&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;1 oz Sweet vermouth&lt;/li&gt;&lt;/ul&gt;
+
+
+
+&lt;div class=&#34;instructions e-instructions&#34;&gt;
+  Add all ingredients to a shaker along with plenty of ice. Stir for 20&amp;ndash;30 seconds. Strain into a coupe glass.&lt;/p&gt;
+
+&lt;p&gt;Garnish with an orange twist.
+&lt;/div&gt;
+
+
+</description>
     </item>
     
   </channel>

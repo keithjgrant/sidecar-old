@@ -2,102 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sidecar</title>
-    <link>https://sidecar.keithjgrant.com/tags/</link>
+    <link>https://sidecar.keithjgrant.com/tags/index.xml</link>
     <description>Recent content in Tags on Sidecar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Jan 2018 11:30:58 -0500</lastBuildDate>
-    
-	<atom:link href="https://sidecar.keithjgrant.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://sidecar.keithjgrant.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Blanc Vermouth</title>
-      <link>https://sidecar.keithjgrant.com/tags/blanc-vermouth/</link>
-      <pubDate>Sat, 13 Jan 2018 11:30:58 -0500</pubDate>
+      <title></title>
+      <link>https://sidecar.keithjgrant.com/tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sidecar.keithjgrant.com/tags/blanc-vermouth/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Brandy</title>
-      <link>https://sidecar.keithjgrant.com/tags/brandy/</link>
-      <pubDate>Mon, 08 Jan 2018 11:17:50 -0500</pubDate>
-      
-      <guid>https://sidecar.keithjgrant.com/tags/brandy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Built</title>
-      <link>https://sidecar.keithjgrant.com/tags/built/</link>
-      <pubDate>Mon, 08 Jan 2018 12:21:43 -0500</pubDate>
-      
-      <guid>https://sidecar.keithjgrant.com/tags/built/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dry Vermouth</title>
-      <link>https://sidecar.keithjgrant.com/tags/dry-vermouth/</link>
-      <pubDate>Sat, 13 Jan 2018 11:30:58 -0500</pubDate>
-      
-      <guid>https://sidecar.keithjgrant.com/tags/dry-vermouth/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gin</title>
-      <link>https://sidecar.keithjgrant.com/tags/gin/</link>
-      <pubDate>Sat, 13 Jan 2018 11:30:58 -0500</pubDate>
-      
-      <guid>https://sidecar.keithjgrant.com/tags/gin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rye Whiskey</title>
-      <link>https://sidecar.keithjgrant.com/tags/rye-whiskey/</link>
-      <pubDate>Sat, 13 Jan 2018 11:31:10 -0500</pubDate>
-      
-      <guid>https://sidecar.keithjgrant.com/tags/rye-whiskey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shaken</title>
-      <link>https://sidecar.keithjgrant.com/tags/shaken/</link>
-      <pubDate>Mon, 08 Jan 2018 11:17:50 -0500</pubDate>
-      
-      <guid>https://sidecar.keithjgrant.com/tags/shaken/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stirred</title>
-      <link>https://sidecar.keithjgrant.com/tags/stirred/</link>
-      <pubDate>Sat, 13 Jan 2018 11:31:10 -0500</pubDate>
-      
-      <guid>https://sidecar.keithjgrant.com/tags/stirred/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sweet Vermouth</title>
-      <link>https://sidecar.keithjgrant.com/tags/sweet-vermouth/</link>
-      <pubDate>Sat, 13 Jan 2018 11:31:10 -0500</pubDate>
-      
-      <guid>https://sidecar.keithjgrant.com/tags/sweet-vermouth/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Triple Sec</title>
-      <link>https://sidecar.keithjgrant.com/tags/triple-sec/</link>
-      <pubDate>Mon, 08 Jan 2018 11:17:50 -0500</pubDate>
-      
-      <guid>https://sidecar.keithjgrant.com/tags/triple-sec/</guid>
+      <guid>https://sidecar.keithjgrant.com/tags/</guid>
       <description></description>
     </item>
     

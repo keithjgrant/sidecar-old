@@ -2,14 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rye Whiskey on Sidecar</title>
-    <link>https://sidecar.keithjgrant.com/tags/rye-whiskey/</link>
+    <link>https://sidecar.keithjgrant.com/tags/rye-whiskey/index.xml</link>
     <description>Recent content in Rye Whiskey on Sidecar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Jan 2018 11:31:10 -0500</lastBuildDate>
+    <atom:link href="https://sidecar.keithjgrant.com/tags/rye-whiskey/index.xml" rel="self" type="application/rss+xml" />
     
-	<atom:link href="https://sidecar.keithjgrant.com/tags/rye-whiskey/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Old Fashioned</title>
+      <link>https://sidecar.keithjgrant.com/drinks/old-fashioned/</link>
+      <pubDate>Mon, 15 Jan 2018 11:30:58 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/drinks/old-fashioned/</guid>
+      <description>
+&lt;div class=&#34;recipe-intro p-summary&#34;&gt;Some people will argue an Old Fashioned must be made with a sugar cube. Those people haven’t tried it with &lt;a href=&#34;https://sidecar.keithjgrant.com/ingredients/burnt-sugar-syrup&#34;&gt;burnt sugar syrup&lt;/a&gt;.&lt;/div&gt;
+
+
+&lt;ul class=&#34;ingredients&#34;&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2 oz rye whiskey&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;¾ oz burnt sugar syrup&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2 dashes Angostura bitters&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2 dashes orange bitters&lt;/li&gt;&lt;/ul&gt;
+
+
+
+&lt;div class=&#34;instructions e-instructions&#34;&gt;
+  Add ice to a rocks glass. Add the bitters, then the whiskey and burnt sugar syrup. The syrup will sink to the bottom, so give it a quick stir to mix.&lt;/p&gt;
+
+&lt;p&gt;Cut an think slice of orange peel. Express the oils over the drink, then rub it around the rim of the glass and place it in the glass.
+&lt;/div&gt;
+
+
+</description>
+    </item>
     
     <item>
       <title>Manhattan</title>
@@ -17,9 +38,19 @@
       <pubDate>Sat, 13 Jan 2018 11:31:10 -0500</pubDate>
       
       <guid>https://sidecar.keithjgrant.com/drinks/manhattan/</guid>
-      <description> 2 oz rye whiskey1 oz sweet vermouth2 dashes Angostura bitters Combine in a shaker with ice. Stir, then strain into a coupe glass.
-Garnish with a Maraschino cherry.
- </description>
+      <description>
+&lt;ul class=&#34;ingredients&#34;&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2 oz rye whiskey&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;1 oz sweet vermouth&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2 dashes Angostura bitters&lt;/li&gt;&lt;/ul&gt;
+
+
+
+&lt;div class=&#34;instructions e-instructions&#34;&gt;
+  Combine in a shaker with ice. Stir, then strain into a coupe glass.&lt;/p&gt;
+
+&lt;p&gt;Garnish with a Maraschino cherry.
+&lt;/div&gt;
+
+
+</description>
     </item>
     
   </channel>
