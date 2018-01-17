@@ -18,14 +18,14 @@
 &lt;div class=&#34;recipe-intro p-summary&#34;&gt;Some people will argue an Old Fashioned must be made with a sugar cube. Those people haven’t tried it with &lt;a href=&#34;https://sidecar.keithjgrant.com/ingredients/burnt-sugar-syrup&#34;&gt;burnt sugar syrup&lt;/a&gt;.&lt;/div&gt;
 
 
-&lt;ul class=&#34;ingredients&#34;&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2 oz rye whiskey&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;¾ oz burnt sugar syrup&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2 dashes Angostura bitters&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2 dashes orange bitters&lt;/li&gt;&lt;/ul&gt;
+&lt;ul class=&#34;ingredients&#34;&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2 oz rye whiskey&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;¾ oz burnt sugar syrup&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2 dashes Angostura bitters&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2 dashes orange bitters&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;orange twist&lt;/li&gt;&lt;/ul&gt;
 
 
 
 &lt;div class=&#34;instructions e-instructions&#34;&gt;
-  Add ice to a rocks glass. Add the bitters, then the whiskey and burnt sugar syrup. The syrup will sink to the bottom, so give it a quick stir to mix.&lt;/p&gt;
+  Add ice to a rocks glass. Add both bitters, then the whiskey and burnt sugar syrup. The syrup will sink to the bottom, so give it a quick stir to mix.&lt;/p&gt;
 
-&lt;p&gt;Cut an think slice of orange peel. Express the oils over the drink, then rub it around the rim of the glass and place it in the glass.
+&lt;p&gt;Cut a think slice of orange peel. Express the oils over the drink, then rub it around the rim of the glass and place it in the drink.
 &lt;/div&gt;
 
 
@@ -35,7 +35,7 @@
     <item>
       <title>Daiquiri</title>
       <link>https://sidecar.keithjgrant.com/drinks/daiqueri/</link>
-      <pubDate>Mon, 08 Jan 2018 11:17:50 -0500</pubDate>
+      <pubDate>Mon, 15 Jan 2018 11:17:51 -0500</pubDate>
       
       <guid>https://sidecar.keithjgrant.com/drinks/daiqueri/</guid>
       <description>
@@ -44,6 +44,77 @@
 
 &lt;div class=&#34;instructions e-instructions&#34;&gt;
   Add all ingredients to a cocktail shaker with plenty of ice. Shake well and strain into a coupe glass.
+&lt;/div&gt;
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>Manhattan</title>
+      <link>https://sidecar.keithjgrant.com/drinks/manhattan/</link>
+      <pubDate>Sat, 13 Jan 2018 11:31:10 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/drinks/manhattan/</guid>
+      <description>
+&lt;ul class=&#34;ingredients&#34;&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2 oz rye whiskey&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;1 oz sweet vermouth&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2 dashes Angostura bitters&lt;/li&gt;&lt;/ul&gt;
+
+
+
+&lt;div class=&#34;instructions e-instructions&#34;&gt;
+  Combine in a shaker with ice. Stir, then strain into a coupe glass.&lt;/p&gt;
+
+&lt;p&gt;Garnish with a Maraschino cherry.
+&lt;/div&gt;
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>Martini</title>
+      <link>https://sidecar.keithjgrant.com/drinks/martini/</link>
+      <pubDate>Sat, 13 Jan 2018 11:30:58 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/drinks/martini/</guid>
+      <description>
+&lt;div class=&#34;recipe-intro p-summary&#34;&gt;Everyone has an opinion about martinis. I’ll spare you mine, and just give you my recipe. Trust me.&lt;/p&gt;
+
+&lt;p&gt;I often use a blanc vermouth instead of the traditional dry, but it’s delicious with either. Any &lt;a href=&#34;https://sidecar.keithjgrant.com/ingredients/gin/&#34;&gt;type of gin&lt;/a&gt; works in a martini, but I prefer a sweeter style.&lt;/div&gt;
+
+
+
+&lt;ul class=&#34;ingredients&#34;&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2¼ oz genever gin&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;¾ oz dry vermouth&lt;/li&gt;&lt;/ul&gt;
+
+
+
+&lt;div class=&#34;instructions e-instructions&#34;&gt;
+  Add to cocktail shaker with plenty of ice. Stir well, then strain into a martini glass.&lt;/p&gt;
+
+&lt;p&gt;Garnish with a lemon twist.
+&lt;/div&gt;
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>Sidecar</title>
+      <link>https://sidecar.keithjgrant.com/drinks/sidecar/</link>
+      <pubDate>Mon, 08 Jan 2018 11:17:50 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/drinks/sidecar/</guid>
+      <description>
+&lt;div class=&#34;recipe-intro p-summary&#34;&gt;The simple syrup isn’t traditional, but that’s how I learned it, and I like the touch of additional sweetness.&lt;/div&gt;
+
+
+&lt;ul class=&#34;ingredients&#34;&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2 oz Cognac&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;¾ oz orange liqueur&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;¾ oz lemon juice&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;¼ oz simple syrup&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;orange twist, discarded&lt;/li&gt;&lt;/ul&gt;
+
+
+&lt;div class=&#34;instructions e-instructions&#34;&gt;
+  Shake vigorously with ice. Strain into a coupe glass.&lt;/p&gt;
+
+&lt;p&gt;Express the oils from an orange twist over the drink, then &lt;a href=&#34;https://sidecar.keithjgrant.com/techniques/twist/#discarding&#34;&gt;discard the peel&lt;/a&gt;.
 &lt;/div&gt;
 
 
