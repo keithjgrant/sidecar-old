@@ -7,8 +7,8 @@
     "doc": "docs"
   },
   "scripts": {
-    "start": "hugo server",
-    "start:drafts": "hugo server -D",
+    "start": "hugo server -p 1314",
+    "start:drafts": "hugo server -D -p 1314",
     "hugo": "hugo -d docs",
     "webpack:build": "webpack",
     "webpack:watch": "webpack --watch",

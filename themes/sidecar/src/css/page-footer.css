@@ -3,20 +3,23 @@
   right: 0;
   bottom: 0;
   left: 0;
-  background-color: rgba(255, 255, 255, 0.3);
   color: $gray-6;
+  background-color: rgba(255, 255, 255, 0.3);
+  font-size: 0.8rem;
 }
 
 .page-footer__inner {
+  max-width: 800px;
   margin: 0 auto;
   padding: 0.5em 2em;
-  max-width: 800px;
 
   & a {
     color: inherit;
   }
 
   @media (min-width: 500px) {
+    display: flex;
+    justify-content: space-between;
     padding: 1em 2em;
   }
 }

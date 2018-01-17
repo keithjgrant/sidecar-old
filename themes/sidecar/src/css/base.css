@@ -22,6 +22,10 @@ body {
   line-height: 1.45;
 }
 
+body.no-footer {
+  padding-bottom: 0;
+}
+
 h1,
 h2,
 h3 {
@@ -46,7 +50,8 @@ h3 {
   margin: 1rem 0;
 }
 
-p, ul {
+p,
+ul {
   margin: 0.86em 0;
 }
 

@@ -6,6 +6,7 @@ tags: [
   "genever-gin",
   "blanc-vermouth",
   "dry-vermouth",
+  "classic-cocktail",
   "stirred"
 ]
 

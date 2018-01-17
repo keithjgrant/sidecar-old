@@ -1,13 +1,15 @@
 ---
 title: "Vigo"
-date: "2018-01-08T11:17:50-05:00"
+date: "2018-01-15T11:17:50-05:00"
 tags: [
+  "gin",
   "london-dry-gin",
   "blanc-vermouth",
   "orange-juice",
   "sparkling-wine",
   "shaken"
 ]
+featured: true
 
 image:
   url: "/images/drinks/vigo.jpg"
@@ -28,6 +30,6 @@ I didn’t invent this drink, but I did invent the name.
 >}}
 
 {{< instructions >}}
-Add all ingredients except the sparkling wine to a cocktail shaker with plenty of ice. Shake vigorously for 10–15 seconds, then strain into a wine glass. Top with the sparkling wine. Be disappointed by Mimosas for the rest of your life.
+Add all ingredients except the sparkling wine to a cocktail shaker with plenty of ice. Shake then strain into a wine glass. Top with the sparkling wine. Be disappointed by Mimosas for the rest of your life.
 {{< /instructions >}}
 {{< /wrap >}}

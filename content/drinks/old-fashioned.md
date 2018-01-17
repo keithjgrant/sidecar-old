@@ -18,12 +18,13 @@ Some people will argue an Old Fashioned must be made with a sugar cube. Those pe
   "¾ oz burnt sugar syrup"
   "2 dashes Angostura bitters"
   "2 dashes orange bitters"
+  "orange twist"
 >}}
 
 
 {{< instructions >}}
-Add ice to a rocks glass. Add the bitters, then the whiskey and burnt sugar syrup. The syrup will sink to the bottom, so give it a quick stir to mix.
+Add ice to a rocks glass. Add both bitters, then the whiskey and burnt sugar syrup. The syrup will sink to the bottom, so give it a quick stir to mix.
 
-Cut an think slice of orange peel. Express the oils over the drink, then rub it around the rim of the glass and place it in the glass.
+Cut a think slice of orange peel. Express the oils over the drink, then rub it around the rim of the glass and place it in the drink.
 {{< /instructions >}}
 {{< /wrap >}}

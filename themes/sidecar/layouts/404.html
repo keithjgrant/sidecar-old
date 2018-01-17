@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+  {{ partial "meta.html" . }}
+</head>
+<body class="no-footer">
+  <main class="hp-grid hp-grid-404">
+    <div class="hp__header">
+      <div>
+        <h1>
+          {{- partial "svg/logo.html" . -}} Not Found
+        </h1>
+        <div>Party foul!</div>
+      </div>
+    </div>
+    <a class="hp__drinks hp__tile" href="/drinks/">Drinks</a>
+    <a class="hp__tags hp__tile" href="/tags/">Tags</a>
+    <div class="hp__recent-long">
+      <h2>Recently added cocktails:</h2>
+      <div class="recent-drinks">
+        {{ range first 9 (where .Site.Pages "Section" "drinks") }}
+          <a href="{{ .URL }}"
+            {{- if .Params.image -}}
+              style="background-image: url({{.Params.image.url}});
+              {{- if .Params.image.align -}}
+              background-position: {{.Params.image.align}}
+              {{- end -}}"
+          {{- else -}}
+            style="background-image: url(/images/bar-wall.jpg)"
+          {{- end -}})>
+            <div class="recent-drinks__title">{{- .Title -}}</div>
+          </a>
+        {{ end }}
+      </div>
+    </div>
+  </main>
+</body>
+</html>

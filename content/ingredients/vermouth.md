@@ -15,7 +15,9 @@ Sweet vermouths, often labelled “Rosso”, are reddish in color and sweeter ta
 Another less common type of vermouth are “blanc” or “bianco”. Blanc vermouth is clear in color, but sweeter in flavor than a dry vermouth. These are delicous and in some ways similar to Sherry.
 
 ### Brands
-The most readily-available brand of vermouth (in the U.S.) is *Martini & Rossi*. Their dry vermouth is passable, but there are far better options available. Their sweet vermouth is overly medicinal and a quick way to ruin a drink.
+<div class="aside">
+The most readily-available brand of vermouth (in the U.S.) is <i>Martini & Rossi</i>. Their dry vermouth is passable, but there are better options available. Their sweet vermouth is overly medicinal and a quick way to ruin a drink.
+</div>
 
 Vermouth is often under-appreciated, largely because old bottles of Martini & Rossi are all you will find in most home liquor cabinets. I recommend the following brands (my favorites at the top). You may need to visit a larger liquor store to find them.
 

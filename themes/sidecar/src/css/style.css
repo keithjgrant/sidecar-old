@@ -1,7 +1,7 @@
 @import 'variables';
 @import 'base';
 @import 'hp-grid';
-@import "recent-drinks";
+@import 'recent-drinks';
 @import 'page-header';
 @import 'header-title';
 @import 'nav-links';
@@ -18,3 +18,4 @@
 @import 'post-full';
 @import 'content-recipe';
 @import 'page-footer';
+@import 'aside';

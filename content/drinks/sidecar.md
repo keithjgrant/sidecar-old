@@ -4,6 +4,8 @@ date: "2018-01-08T11:17:50-05:00"
 tags: [
   "brandy",
   "orange-liqueur",
+  "lemon",
+  "classic-cocktail",
   "shaken"
 ]
 ---
@@ -17,11 +19,12 @@ The simple syrup isn’t traditional, but that’s how I learned it, and I like 
   "¾ oz orange liqueur"
   "¾ oz lemon juice"
   "¼ oz simple syrup"
+  "orange twist, discarded"
 >}}
 
 {{< instructions >}}
 Shake vigorously with ice. Strain into a coupe glass.
 
-Garnish with an orange twist, [discarded](/techniques/twist/#discarding).
+Express the oils from an orange twist over the drink, then [discard the peel](/techniques/twist/#discarding).
 {{< /instructions >}}
 {{< /wrap >}}
