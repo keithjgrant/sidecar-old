@@ -19,9 +19,9 @@
     <a class="hp__ingredients hp__tile" href="/ingredients/">Ingredients</a>
     <a class="hp__about hp__tile" href="/about/">About</a>
     <div class="hp__recent">
-      <h2>Recently added cocktails:</h2>
+      <h2>Currently featured cocktails:</h2>
       <div class="recent-drinks">
-        {{ range first 3 (where .Site.Pages "Section" "drinks") }}
+        {{ range first 3 (where .Site.Pages ".Params.featured" true) }}
           <a href="{{ .URL }}"
             {{- if .Params.image -}}
               style="background-image: url({{.Params.image.url}});

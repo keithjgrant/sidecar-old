@@ -1,0 +1,6 @@
+.aside {
+  margin: 0 -1em;
+  padding: 1em;
+  color: $gray-5;
+  background-color: $gray-9;
+}

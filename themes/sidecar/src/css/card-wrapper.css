@@ -1,7 +1,7 @@
-
 .card-wrapper {
   display: flex;
   align-items: center;
   justify-items: center;
   min-height: calc(100vh - $header-height - $footer-height);
+  margin: 1em 0 0.5em;
 }

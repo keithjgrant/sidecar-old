@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cream on Sidecar</title>
+    <link>https://sidecar.keithjgrant.com/tags/cream/index.xml</link>
+    <description>Recent content in Cream on Sidecar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://sidecar.keithjgrant.com/tags/cream/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Brandy Alexander</title>
+      <link>https://sidecar.keithjgrant.com/drinks/brandy-alexander/</link>
+      <pubDate>Mon, 15 Jan 2018 11:17:51 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/drinks/brandy-alexander/</guid>
+      <description>
+&lt;ul class=&#34;ingredients&#34;&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2 oz Cognac or other brandy&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;1 oz heavy cream&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;½ oz demerara syrup&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;fresh grated nutmeg&lt;/li&gt;&lt;/ul&gt;
+
+
+
+&lt;div class=&#34;instructions e-instructions&#34;&gt;
+  Add brandy, cream, and &lt;a href=&#34;https://sidecar.keithjgrant.com/ingredients/simple-syrups/#variants&#34;&gt;demerara syrup&lt;/a&gt; to a cocktail shaker. Shake. Strain into coupe glass.&lt;/p&gt;
+
+&lt;p&gt;Top with grated nutmeg.
+&lt;/div&gt;
+
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

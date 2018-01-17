@@ -6,6 +6,7 @@
     padding: 0.6em 1em;
     color: inherit;
     background-color: $white;
+    font-size: 1.25em;
     text-decoration: none;
     box-shadow: $box-shadow;
 
@@ -16,7 +17,7 @@
 }
 
 .compact-list__item {
-  transition: transform .2s ease-out;
+  transition: transform 0.2s ease-out;
 }
 
 .compact-list__item:hover {

@@ -4,6 +4,7 @@ date: 2018-01-13T11:31:10-05:00
 tags: [
   "rye-whiskey",
   "sweet-vermouth",
+  "classic-cocktail",
   "stirred"
 ]
 ---
