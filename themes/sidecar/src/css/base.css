@@ -21,6 +21,9 @@ body {
   font-family: Raleway, Tahoma, sans-serif;
   line-height: 1.45;
 }
+body.homepage {
+  padding-bottom: 0;
+}
 
 h1,
 h2,
