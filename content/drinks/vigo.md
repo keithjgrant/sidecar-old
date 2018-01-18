@@ -9,7 +9,6 @@ tags: [
   "sparkling-wine",
   "shaken"
 ]
-featured: true
 
 image:
   url: "/images/drinks/vigo.jpg"

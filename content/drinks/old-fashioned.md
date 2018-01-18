@@ -7,6 +7,11 @@ tags: [
   "classic-cocktail",
   "built"
 ]
+
+image:
+  url: "/images/drinks/old-fashioned.jpg"
+  alt: ""
+  align: "50% 40%"
 ---
 {{< wrap >}}
 {{< summary >}}

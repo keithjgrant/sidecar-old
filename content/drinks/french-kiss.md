@@ -6,7 +6,6 @@ tags: [
   "dry-vermouth",
   "built"
 ]
-featured: true
 
 image:
   url: /images/drinks/french-kiss.jpg
