@@ -16,8 +16,9 @@ image:
 
 
 {{< ingredients
-  "2 oz"
-  "1 oz"
+  "¼ oz"
+  "½ oz"
+  "¾ oz"
 >}}
 
 
