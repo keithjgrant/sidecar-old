@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Green Chartreuse on Sidecar</title>
-    <link>https://sidecar.keithjgrant.com/tags/green-chartreuse/index.xml</link>
+    <link>https://sidecar.keithjgrant.com/tags/green-chartreuse/</link>
     <description>Recent content in Green Chartreuse on Sidecar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://sidecar.keithjgrant.com/tags/green-chartreuse/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jan 2018 12:27:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://sidecar.keithjgrant.com/tags/green-chartreuse/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Tabs vs. Spaces</title>
@@ -14,19 +17,7 @@
       <pubDate>Tue, 16 Jan 2018 12:27:00 -0500</pubDate>
       
       <guid>https://sidecar.keithjgrant.com/drinks/tabs-vs-spaces/</guid>
-      <description>
-&lt;div class=&#34;recipe-intro p-summary&#34;&gt;It’s a programmer joke. I’m a nerd.&lt;/div&gt;
-
-
-&lt;ul class=&#34;ingredients&#34;&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2 oz tequila&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;½ oz Green Chartreuse&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;¾ oz lime juice&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;½ oz simple syrup&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;pinch of salt&lt;/li&gt;&lt;/ul&gt;
-
-
-&lt;div class=&#34;instructions e-instructions&#34;&gt;
-  Add everything to a cocktail shaker with ice. Shake. Strain into a coupe glass.
-&lt;/div&gt;
-
-
-</description>
+      <description> It’s a programmer joke. I’m a nerd. 2 oz tequila½ oz Green Chartreuse¾ oz lime juice½ oz simple syruppinch of salt Add everything to a cocktail shaker with ice. Shake. Strain into a coupe glass.  </description>
     </item>
     
     <item>
@@ -35,18 +26,9 @@
       <pubDate>Tue, 16 Jan 2018 12:22:00 -0500</pubDate>
       
       <guid>https://sidecar.keithjgrant.com/drinks/bijou/</guid>
-      <description>
-&lt;ul class=&#34;ingredients&#34;&gt;&lt;li class=&#34;p-ingredient&#34;&gt;1 oz London dry gin&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;1 oz Green Chartreuse&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;1 oz sweet vermouth&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;lemon twist&lt;/li&gt;&lt;/ul&gt;
-
-
-&lt;div class=&#34;instructions e-instructions&#34;&gt;
-  Stir the liquids in a cocktail shaker with ice. Strain into a coupe glass.&lt;/p&gt;
-
-&lt;p&gt;Express the oils from the lemon peel over the drink and add it to the glass.
-&lt;/div&gt;
-
-
-</description>
+      <description> 1 oz London dry gin1 oz Green Chartreuse1 oz sweet vermouthlemon twist Stir the liquids in a cocktail shaker with ice. Strain into a coupe glass.
+Express the oils from the lemon peel over the drink and add it to the glass.
+ </description>
     </item>
     
   </channel>

@@ -2,18 +2,318 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sidecar</title>
-    <link>https://sidecar.keithjgrant.com/tags/index.xml</link>
+    <link>https://sidecar.keithjgrant.com/tags/</link>
     <description>Recent content in Tags on Sidecar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://sidecar.keithjgrant.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Jan 2018 11:17:51 -0500</lastBuildDate>
+    
+	<atom:link href="https://sidecar.keithjgrant.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title></title>
-      <link>https://sidecar.keithjgrant.com/tags/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Blanc Vermouth</title>
+      <link>https://sidecar.keithjgrant.com/tags/blanc-vermouth/</link>
+      <pubDate>Mon, 15 Jan 2018 11:17:51 -0500</pubDate>
       
-      <guid>https://sidecar.keithjgrant.com/tags/</guid>
+      <guid>https://sidecar.keithjgrant.com/tags/blanc-vermouth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bourbon</title>
+      <link>https://sidecar.keithjgrant.com/tags/bourbon/</link>
+      <pubDate>Mon, 15 Jan 2018 11:17:51 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/tags/bourbon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brandy</title>
+      <link>https://sidecar.keithjgrant.com/tags/brandy/</link>
+      <pubDate>Mon, 15 Jan 2018 11:17:51 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/tags/brandy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Built</title>
+      <link>https://sidecar.keithjgrant.com/tags/built/</link>
+      <pubDate>Wed, 17 Jan 2018 18:59:51 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/tags/built/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Burnt Sugar Syrup</title>
+      <link>https://sidecar.keithjgrant.com/tags/burnt-sugar-syrup/</link>
+      <pubDate>Tue, 16 Jan 2018 11:54:50 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/tags/burnt-sugar-syrup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Campari</title>
+      <link>https://sidecar.keithjgrant.com/tags/campari/</link>
+      <pubDate>Wed, 17 Jan 2018 20:44:41 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/tags/campari/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cherry</title>
+      <link>https://sidecar.keithjgrant.com/tags/cherry/</link>
+      <pubDate>Tue, 16 Jan 2018 11:57:50 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/tags/cherry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classic Cocktail</title>
+      <link>https://sidecar.keithjgrant.com/tags/classic-cocktail/</link>
+      <pubDate>Mon, 15 Jan 2018 11:30:58 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/tags/classic-cocktail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coffee</title>
+      <link>https://sidecar.keithjgrant.com/tags/coffee/</link>
+      <pubDate>Tue, 16 Jan 2018 11:54:50 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/tags/coffee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cream</title>
+      <link>https://sidecar.keithjgrant.com/tags/cream/</link>
+      <pubDate>Mon, 15 Jan 2018 11:17:51 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/tags/cream/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dessert Drink</title>
+      <link>https://sidecar.keithjgrant.com/tags/dessert-drink/</link>
+      <pubDate>Tue, 16 Jan 2018 11:54:50 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/tags/dessert-drink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dry Vermouth</title>
+      <link>https://sidecar.keithjgrant.com/tags/dry-vermouth/</link>
+      <pubDate>Tue, 16 Jan 2018 12:27:00 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/tags/dry-vermouth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Egg</title>
+      <link>https://sidecar.keithjgrant.com/tags/egg/</link>
+      <pubDate>Tue, 16 Jan 2018 11:54:50 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/tags/egg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genever Gin</title>
+      <link>https://sidecar.keithjgrant.com/tags/genever-gin/</link>
+      <pubDate>Wed, 17 Jan 2018 18:59:51 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/tags/genever-gin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gin</title>
+      <link>https://sidecar.keithjgrant.com/tags/gin/</link>
+      <pubDate>Wed, 17 Jan 2018 18:59:51 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/tags/gin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grapefruit</title>
+      <link>https://sidecar.keithjgrant.com/tags/grapefruit/</link>
+      <pubDate>Wed, 17 Jan 2018 20:44:41 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/tags/grapefruit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Green Chartreuse</title>
+      <link>https://sidecar.keithjgrant.com/tags/green-chartreuse/</link>
+      <pubDate>Tue, 16 Jan 2018 12:27:00 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/tags/green-chartreuse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Honey</title>
+      <link>https://sidecar.keithjgrant.com/tags/honey/</link>
+      <pubDate>Tue, 16 Jan 2018 11:54:50 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/tags/honey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Irish Whiskey</title>
+      <link>https://sidecar.keithjgrant.com/tags/irish-whiskey/</link>
+      <pubDate>Tue, 16 Jan 2018 11:54:50 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/tags/irish-whiskey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lemon</title>
+      <link>https://sidecar.keithjgrant.com/tags/lemon/</link>
+      <pubDate>Tue, 16 Jan 2018 11:57:50 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/tags/lemon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lime</title>
+      <link>https://sidecar.keithjgrant.com/tags/lime/</link>
+      <pubDate>Wed, 17 Jan 2018 18:59:51 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/tags/lime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>London Dry Gin</title>
+      <link>https://sidecar.keithjgrant.com/tags/london-dry-gin/</link>
+      <pubDate>Tue, 16 Jan 2018 12:22:00 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/tags/london-dry-gin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maraschino</title>
+      <link>https://sidecar.keithjgrant.com/tags/maraschino/</link>
+      <pubDate>Tue, 16 Jan 2018 11:57:50 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/tags/maraschino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orange Juice</title>
+      <link>https://sidecar.keithjgrant.com/tags/orange-juice/</link>
+      <pubDate>Mon, 15 Jan 2018 11:17:50 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/tags/orange-juice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orange Liqueur</title>
+      <link>https://sidecar.keithjgrant.com/tags/orange-liqueur/</link>
+      <pubDate>Wed, 17 Jan 2018 14:28:50 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/tags/orange-liqueur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rum</title>
+      <link>https://sidecar.keithjgrant.com/tags/rum/</link>
+      <pubDate>Tue, 16 Jan 2018 12:27:00 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/tags/rum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rye Whiskey</title>
+      <link>https://sidecar.keithjgrant.com/tags/rye-whiskey/</link>
+      <pubDate>Mon, 15 Jan 2018 11:30:58 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/tags/rye-whiskey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shaken</title>
+      <link>https://sidecar.keithjgrant.com/tags/shaken/</link>
+      <pubDate>Wed, 17 Jan 2018 20:44:41 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/tags/shaken/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sidecar Original</title>
+      <link>https://sidecar.keithjgrant.com/tags/sidecar-original/</link>
+      <pubDate>Tue, 16 Jan 2018 12:27:00 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/tags/sidecar-original/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparkling Wine</title>
+      <link>https://sidecar.keithjgrant.com/tags/sparkling-wine/</link>
+      <pubDate>Mon, 15 Jan 2018 11:17:50 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/tags/sparkling-wine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stirred</title>
+      <link>https://sidecar.keithjgrant.com/tags/stirred/</link>
+      <pubDate>Tue, 16 Jan 2018 12:27:00 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/tags/stirred/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sweet Vermouth</title>
+      <link>https://sidecar.keithjgrant.com/tags/sweet-vermouth/</link>
+      <pubDate>Tue, 16 Jan 2018 12:22:00 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/tags/sweet-vermouth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tequila</title>
+      <link>https://sidecar.keithjgrant.com/tags/tequila/</link>
+      <pubDate>Wed, 17 Jan 2018 14:28:50 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/tags/tequila/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vodka</title>
+      <link>https://sidecar.keithjgrant.com/tags/vodka/</link>
+      <pubDate>Wed, 17 Jan 2018 20:44:41 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/tags/vodka/</guid>
       <description></description>
     </item>
     

@@ -2,11 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gin on Sidecar</title>
-    <link>https://sidecar.keithjgrant.com/tags/gin/index.xml</link>
+    <link>https://sidecar.keithjgrant.com/tags/gin/</link>
     <description>Recent content in Gin on Sidecar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://sidecar.keithjgrant.com/tags/gin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Jan 2018 18:59:51 -0500</lastBuildDate>
+    
+	<atom:link href="https://sidecar.keithjgrant.com/tags/gin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gin and Tonic</title>
+      <link>https://sidecar.keithjgrant.com/drinks/gin-and-tonic/</link>
+      <pubDate>Wed, 17 Jan 2018 18:59:51 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/drinks/gin-and-tonic/</guid>
+      <description>A deceptively simple drink, these particular instructions are meant to minimize the amount of carbonation lost from the tonic water. Recipe by Dave Arnold.
+Traditionally made with a London dry gin, but I think it’s fantastic with genever-style gin.
+ 1¾ oz gin3¼ oz tonic water¼ lime, wedge Pre-chill a rocks glass and gin in the freezer.
+Add the gin to the rocks glass. Gently pour in the tonic water.</description>
+    </item>
+    
+    <item>
+      <title>GBC</title>
+      <link>https://sidecar.keithjgrant.com/drinks/gbc/</link>
+      <pubDate>Wed, 17 Jan 2018 18:44:46 -0500</pubDate>
+      
+      <guid>https://sidecar.keithjgrant.com/drinks/gbc/</guid>
+      <description> A refreshing, summery drink. 1 oz gin½ oz lime juice¼ oz simple syrup3 basil leaves, sliced into strips4 cucumber slices1½ tonic water Middle basil leaves, three cucumber slices, and simple syrup in the base of a rocks glass. Add the gin and lime, and crushed ice.
+Top with tonic water. Garnish with slice of cucumber.
+ </description>
+    </item>
     
     <item>
       <title>Bijou</title>
@@ -14,18 +40,9 @@
       <pubDate>Tue, 16 Jan 2018 12:22:00 -0500</pubDate>
       
       <guid>https://sidecar.keithjgrant.com/drinks/bijou/</guid>
-      <description>
-&lt;ul class=&#34;ingredients&#34;&gt;&lt;li class=&#34;p-ingredient&#34;&gt;1 oz London dry gin&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;1 oz Green Chartreuse&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;1 oz sweet vermouth&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;lemon twist&lt;/li&gt;&lt;/ul&gt;
-
-
-&lt;div class=&#34;instructions e-instructions&#34;&gt;
-  Stir the liquids in a cocktail shaker with ice. Strain into a coupe glass.&lt;/p&gt;
-
-&lt;p&gt;Express the oils from the lemon peel over the drink and add it to the glass.
-&lt;/div&gt;
-
-
-</description>
+      <description> 1 oz London dry gin1 oz Green Chartreuse1 oz sweet vermouthlemon twist Stir the liquids in a cocktail shaker with ice. Strain into a coupe glass.
+Express the oils from the lemon peel over the drink and add it to the glass.
+ </description>
     </item>
     
     <item>
@@ -34,19 +51,9 @@
       <pubDate>Mon, 15 Jan 2018 11:17:51 -0500</pubDate>
       
       <guid>https://sidecar.keithjgrant.com/drinks/bees-knees/</guid>
-      <description>
-&lt;ul class=&#34;ingredients&#34;&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2 oz gin&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;¾ oz lemon juice&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;¾ oz honey syrup&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;lemon twist&lt;/li&gt;&lt;/ul&gt;
-
-
-
-&lt;div class=&#34;instructions e-instructions&#34;&gt;
-  Add gin, lemon juice, and &lt;a href=&#34;https://sidecar.keithjgrant.com/ingredients/simple-syrups/#honey-syrup&#34;&gt;honey syrup&lt;/a&gt; to a cocktail shaker. Shake. Strain into coupe glass.&lt;/p&gt;
-
-&lt;p&gt;Garnish with lemon twist.
-&lt;/div&gt;
-
-
-</description>
+      <description> 2 oz gin¾ oz lemon juice¾ oz honey syruplemon twist Add gin, lemon juice, and honey syrup to a cocktail shaker. Shake. Strain into coupe glass.
+Garnish with lemon twist.
+ </description>
     </item>
     
     <item>
@@ -55,19 +62,7 @@
       <pubDate>Mon, 15 Jan 2018 11:17:50 -0500</pubDate>
       
       <guid>https://sidecar.keithjgrant.com/drinks/vigo/</guid>
-      <description>
-&lt;div class=&#34;recipe-intro p-summary&#34;&gt;I didn’t invent this drink, but I did invent the name.&lt;/div&gt;
-
-
-&lt;ul class=&#34;ingredients&#34;&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2 oz orange juice&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;1 oz London dry gin&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;1 oz blanc vermouth&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;¼ oz honey syrup&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2 oz sparkling wine&lt;/li&gt;&lt;/ul&gt;
-
-
-&lt;div class=&#34;instructions e-instructions&#34;&gt;
-  Add all ingredients except the sparkling wine to a cocktail shaker with plenty of ice. Shake then strain into a wine glass. Top with the sparkling wine. Be disappointed by Mimosas for the rest of your life.
-&lt;/div&gt;
-
-
-</description>
+      <description> I didn’t invent this drink, but I did invent the name. 2 oz orange juice1 oz London dry gin1 oz blanc vermouth¼ oz honey syrup2 oz sparkling wine Add all ingredients except the sparkling wine to a cocktail shaker with plenty of ice. Shake then strain into a wine glass. Top with the sparkling wine. Be disappointed by Mimosas for the rest of your life.  </description>
     </item>
     
     <item>
@@ -76,25 +71,9 @@
       <pubDate>Sat, 13 Jan 2018 11:30:58 -0500</pubDate>
       
       <guid>https://sidecar.keithjgrant.com/drinks/martini/</guid>
-      <description>
-&lt;div class=&#34;recipe-intro p-summary&#34;&gt;Everyone has an opinion about martinis. I’ll spare you mine, and just give you my recipe. Trust me.&lt;/p&gt;
-
-&lt;p&gt;I often use a blanc vermouth instead of the traditional dry, but it’s delicious with either. Any &lt;a href=&#34;https://sidecar.keithjgrant.com/ingredients/gin/&#34;&gt;type of gin&lt;/a&gt; works in a martini, but I prefer a sweeter style.&lt;/div&gt;
-
-
-
-&lt;ul class=&#34;ingredients&#34;&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2¼ oz genever gin&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;¾ oz dry vermouth&lt;/li&gt;&lt;/ul&gt;
-
-
-
-&lt;div class=&#34;instructions e-instructions&#34;&gt;
-  Add to cocktail shaker with plenty of ice. Stir well, then strain into a martini glass.&lt;/p&gt;
-
-&lt;p&gt;Garnish with a lemon twist.
-&lt;/div&gt;
-
-
-</description>
+      <description>Everyone has an opinion about martinis. I’ll spare you mine, and just give you my recipe. Trust me.
+I often use a blanc vermouth instead of the traditional dry, but it’s delicious with either. Any type of gin works in a martini, but I prefer a sweeter style.
+ 2¼ oz genever gin¾ oz dry vermouth Add to cocktail shaker with plenty of ice. Stir well, then strain into a martini glass.</description>
     </item>
     
     <item>
@@ -103,24 +82,9 @@
       <pubDate>Fri, 12 Jan 2018 21:27:58 -0500</pubDate>
       
       <guid>https://sidecar.keithjgrant.com/drinks/negroni/</guid>
-      <description>
-&lt;div class=&#34;recipe-intro p-summary&#34;&gt;The Negroni is my favorite drink. It’s quite sweet, but also bitter and complex. I make mine with Tanquery gin and Cocchi di Torino vermouth. It can also be served on the rocks, but I prefer it neat.&lt;/p&gt;
-
-&lt;p&gt;This drink is a great test of your &lt;a href=&#34;https://sidecar.keithjgrant.com/techniques/stirring/&#34;&gt;stirring&lt;/a&gt; skills. It really falls flat if you don’t stir it properly.&lt;/div&gt;
-
-
-&lt;ul class=&#34;ingredients&#34;&gt;&lt;li class=&#34;p-ingredient&#34;&gt;1 oz Campari&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;1 oz London dry gin&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;1 oz sweet vermouth&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;orange twist&lt;/li&gt;&lt;/ul&gt;
-
-
-
-&lt;div class=&#34;instructions e-instructions&#34;&gt;
-  Add all liquids to a mixing glass along with plenty of ice. Stir for 20&amp;ndash;30 seconds. Strain into a coupe glass.&lt;/p&gt;
-
-&lt;p&gt;Express the oils from the orange peel over the drink and add it to the glass.
-&lt;/div&gt;
-
-
-</description>
+      <description>The Negroni is my favorite drink. It’s quite sweet, but also bitter and complex. I make mine with Tanquery gin and Cocchi di Torino vermouth. It can also be served on the rocks, but I prefer it neat.
+This drink is a great test of your stirring skills. It really falls flat if you don’t stir it properly.
+ 1 oz Campari1 oz London dry gin1 oz sweet vermouthorange twist Add all liquids to a mixing glass along with plenty of ice.</description>
     </item>
     
   </channel>

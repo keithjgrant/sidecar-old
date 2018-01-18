@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rum on Sidecar</title>
-    <link>https://sidecar.keithjgrant.com/tags/rum/index.xml</link>
+    <link>https://sidecar.keithjgrant.com/tags/rum/</link>
     <description>Recent content in Rum on Sidecar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://sidecar.keithjgrant.com/tags/rum/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jan 2018 12:27:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://sidecar.keithjgrant.com/tags/rum/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>El Presidente</title>
@@ -14,16 +17,7 @@
       <pubDate>Tue, 16 Jan 2018 12:27:00 -0500</pubDate>
       
       <guid>https://sidecar.keithjgrant.com/drinks/el-presidente/</guid>
-      <description>
-&lt;ul class=&#34;ingredients&#34;&gt;&lt;li class=&#34;p-ingredient&#34;&gt;1½ oz white rum&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;¾ oz curaçao or orange liqueur&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;¾ oz dry vermouth&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;dash of grenadine&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;orange twist&lt;/li&gt;&lt;/ul&gt;
-
-
-&lt;div class=&#34;instructions e-instructions&#34;&gt;
-  Stir all liquids with ice. Strain into a coupe glass. Garnish with orange twist.
-&lt;/div&gt;
-
-
-</description>
+      <description> 1½ oz white rum¾ oz curaçao or orange liqueur¾ oz dry vermouthdash of grenadineorange twist Stir all liquids with ice. Strain into a coupe glass. Garnish with orange twist.  </description>
     </item>
     
     <item>
@@ -32,16 +26,7 @@
       <pubDate>Mon, 15 Jan 2018 11:17:51 -0500</pubDate>
       
       <guid>https://sidecar.keithjgrant.com/drinks/daiqueri/</guid>
-      <description>
-&lt;ul class=&#34;ingredients&#34;&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2 oz white rum&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;¾ oz lime juice&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;¾ oz simple syrup&lt;/li&gt;&lt;/ul&gt;
-
-
-&lt;div class=&#34;instructions e-instructions&#34;&gt;
-  Add all ingredients to a cocktail shaker with plenty of ice. Shake well and strain into a coupe glass.
-&lt;/div&gt;
-
-
-</description>
+      <description> 2 oz white rum¾ oz lime juice¾ oz simple syrup Add all ingredients to a cocktail shaker with plenty of ice. Shake well and strain into a coupe glass.  </description>
     </item>
     
   </channel>

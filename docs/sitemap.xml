@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://sidecar.keithjgrant.com/drinks/little-bit-bittah/</loc>
+    <lastmod>2018-01-17T20:44:41-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sidecar.keithjgrant.com/drinks/gin-and-tonic/</loc>
+    <lastmod>2018-01-17T18:59:51-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sidecar.keithjgrant.com/drinks/gbc/</loc>
+    <lastmod>2018-01-17T18:44:46-05:00</lastmod>
+  </url>
   
   <url>
     <loc>https://sidecar.keithjgrant.com/drinks/margarita/</loc>
@@ -190,13 +206,24 @@
   
   <url>
     <loc>https://sidecar.keithjgrant.com/tags/built/</loc>
-    <lastmod>2018-01-16T11:54:50-05:00</lastmod>
+    <lastmod>2018-01-17T18:59:51-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sidecar.keithjgrant.com/tags/burnt-sugar-syrup/</loc>
     <lastmod>2018-01-16T11:54:50-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sidecar.keithjgrant.com/tags/campari/</loc>
+    <lastmod>2018-01-17T20:44:41-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sidecar.keithjgrant.com/categories/</loc>
     <priority>0</priority>
   </url>
   
@@ -244,19 +271,19 @@
   
   <url>
     <loc>https://sidecar.keithjgrant.com/tags/genever-gin/</loc>
-    <lastmod>2018-01-13T11:30:58-05:00</lastmod>
+    <lastmod>2018-01-17T18:59:51-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sidecar.keithjgrant.com/tags/gin/</loc>
-    <lastmod>2018-01-16T12:22:00-05:00</lastmod>
+    <lastmod>2018-01-17T18:59:51-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sidecar.keithjgrant.com/tags/grapefruit/</loc>
-    <lastmod>2018-01-15T11:17:51-05:00</lastmod>
+    <lastmod>2018-01-17T20:44:41-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -292,7 +319,7 @@
   
   <url>
     <loc>https://sidecar.keithjgrant.com/tags/lime/</loc>
-    <lastmod>2018-01-17T14:28:50-05:00</lastmod>
+    <lastmod>2018-01-17T18:59:51-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -334,13 +361,13 @@
   
   <url>
     <loc>https://sidecar.keithjgrant.com/tags/shaken/</loc>
-    <lastmod>2018-01-17T14:28:50-05:00</lastmod>
+    <lastmod>2018-01-17T20:44:41-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sidecar.keithjgrant.com/</loc>
-    <lastmod>2018-01-17T14:28:50-05:00</lastmod>
+    <lastmod>2018-01-17T20:44:41-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -375,6 +402,7 @@
   
   <url>
     <loc>https://sidecar.keithjgrant.com/tags/</loc>
+    <lastmod>2018-01-15T11:17:51-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -392,7 +420,7 @@
   
   <url>
     <loc>https://sidecar.keithjgrant.com/tags/vodka/</loc>
-    <lastmod>2018-01-16T11:57:50-05:00</lastmod>
+    <lastmod>2018-01-17T20:44:41-05:00</lastmod>
     <priority>0</priority>
   </url>
   

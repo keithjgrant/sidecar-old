@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dry Vermouth on Sidecar</title>
-    <link>https://sidecar.keithjgrant.com/tags/dry-vermouth/index.xml</link>
+    <link>https://sidecar.keithjgrant.com/tags/dry-vermouth/</link>
     <description>Recent content in Dry Vermouth on Sidecar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://sidecar.keithjgrant.com/tags/dry-vermouth/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jan 2018 12:27:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://sidecar.keithjgrant.com/tags/dry-vermouth/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>El Presidente</title>
@@ -14,16 +17,7 @@
       <pubDate>Tue, 16 Jan 2018 12:27:00 -0500</pubDate>
       
       <guid>https://sidecar.keithjgrant.com/drinks/el-presidente/</guid>
-      <description>
-&lt;ul class=&#34;ingredients&#34;&gt;&lt;li class=&#34;p-ingredient&#34;&gt;1½ oz white rum&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;¾ oz curaçao or orange liqueur&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;¾ oz dry vermouth&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;dash of grenadine&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;orange twist&lt;/li&gt;&lt;/ul&gt;
-
-
-&lt;div class=&#34;instructions e-instructions&#34;&gt;
-  Stir all liquids with ice. Strain into a coupe glass. Garnish with orange twist.
-&lt;/div&gt;
-
-
-</description>
+      <description> 1½ oz white rum¾ oz curaçao or orange liqueur¾ oz dry vermouthdash of grenadineorange twist Stir all liquids with ice. Strain into a coupe glass. Garnish with orange twist.  </description>
     </item>
     
     <item>
@@ -32,25 +26,9 @@
       <pubDate>Sat, 13 Jan 2018 11:30:58 -0500</pubDate>
       
       <guid>https://sidecar.keithjgrant.com/drinks/martini/</guid>
-      <description>
-&lt;div class=&#34;recipe-intro p-summary&#34;&gt;Everyone has an opinion about martinis. I’ll spare you mine, and just give you my recipe. Trust me.&lt;/p&gt;
-
-&lt;p&gt;I often use a blanc vermouth instead of the traditional dry, but it’s delicious with either. Any &lt;a href=&#34;https://sidecar.keithjgrant.com/ingredients/gin/&#34;&gt;type of gin&lt;/a&gt; works in a martini, but I prefer a sweeter style.&lt;/div&gt;
-
-
-
-&lt;ul class=&#34;ingredients&#34;&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2¼ oz genever gin&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;¾ oz dry vermouth&lt;/li&gt;&lt;/ul&gt;
-
-
-
-&lt;div class=&#34;instructions e-instructions&#34;&gt;
-  Add to cocktail shaker with plenty of ice. Stir well, then strain into a martini glass.&lt;/p&gt;
-
-&lt;p&gt;Garnish with a lemon twist.
-&lt;/div&gt;
-
-
-</description>
+      <description>Everyone has an opinion about martinis. I’ll spare you mine, and just give you my recipe. Trust me.
+I often use a blanc vermouth instead of the traditional dry, but it’s delicious with either. Any type of gin works in a martini, but I prefer a sweeter style.
+ 2¼ oz genever gin¾ oz dry vermouth Add to cocktail shaker with plenty of ice. Stir well, then strain into a martini glass.</description>
     </item>
     
     <item>
@@ -59,19 +37,7 @@
       <pubDate>Mon, 08 Jan 2018 12:21:43 -0500</pubDate>
       
       <guid>https://sidecar.keithjgrant.com/drinks/french-kiss/</guid>
-      <description>
-&lt;div class=&#34;recipe-intro p-summary&#34;&gt;As always, use only &lt;a href=&#34;https://sidecar.keithjgrant.com/ingredients/vermouth/#brands&#34;&gt;high quality vermouth&lt;/a&gt; that is &lt;a href=&#34;https://sidecar.keithjgrant.com/ingredients/vermouth/#storing-vermouth&#34;&gt;fresh&lt;/a&gt; (less than three months old).&lt;/div&gt;
-
-
-&lt;ul class=&#34;ingredients&#34;&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2 oz sweet vermouth&lt;/li&gt;&lt;li class=&#34;p-ingredient&#34;&gt;2 oz dry vermouth&lt;/li&gt;&lt;/ul&gt;
-
-
-&lt;div class=&#34;instructions e-instructions&#34;&gt;
-  Build in a rocks glass. Garnish with a lemon twist.
-&lt;/div&gt;
-
-
-</description>
+      <description> As always, use only high quality vermouth that is fresh (less than three months old). 2 oz sweet vermouth2 oz dry vermouth Build in a rocks glass. Garnish with a lemon twist.  </description>
     </item>
     
   </channel>
