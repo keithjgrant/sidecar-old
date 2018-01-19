@@ -24,7 +24,7 @@ A refreshing, summery drink.
   "¼ oz simple syrup"
   "3 basil leaves, sliced into strips"
   "4 cucumber slices"
-  "1½ tonic water"
+  "4 oz tonic water"
 >}}
 
 

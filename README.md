@@ -2,7 +2,4 @@
 
 ## A curated collection of cocktails
 
-A Progressive Web App hosted at https://sidecar.keithjgrant.com
-
-
-
+A Progressive Web App hosted at https://sidecar.us
