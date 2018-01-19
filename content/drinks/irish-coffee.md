@@ -1,11 +1,10 @@
 ---
-title: "The Definitive Irish Coffee"
+title: "Irish Coffee"
 date: "2018-01-16T11:54:50-05:00"
 tags: [
   "irish-whiskey",
   "coffee",
   "burnt-sugar-syrup",
-  "sidecar-original",
   "dessert-drink",
   "built"
 ]

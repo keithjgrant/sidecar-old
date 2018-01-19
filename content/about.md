@@ -2,7 +2,7 @@
 title: "About Sidecar"
 date: 2018-01-14T21:11:14-05:00
 ---
-I enjoy making cocktails, but I’m not a fan of cocktail recipe books. I own one with 1,200 recipes. Half of them are terrible and others&mdash;well, let’s just say I don’t want four recipes for a [Manhattan](/drinks/manhattan). I want the one, *best* recipe for it.
+I enjoy making cocktails, but I’m not a fan of most cocktail recipe books. I own one with 1,200 recipes. Half of them are terrible and others&mdash;well, let’s just say I don’t want four recipes for a [Manhattan](/drinks/manhattan). I want the one, *best* recipe for it.
 
 Sidecar is different. These are only recipes that I have personally tested and enjoyed. Some of these are exactly as I found them. Others I have tinkered with for a while before landing on a final recipe. And a few I have [created myself](/tags/sidecar-original).
 

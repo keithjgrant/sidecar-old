@@ -4,8 +4,14 @@ date: 2018-01-17T18:44:46-05:00
 tags: [
   "gin",
   "lime",
+  "summer",
   "built"
 ]
+
+image:
+  url: "/images/drinks/gbc.jpg"
+  alt: "A refreshing-looking GBC in a crystal rocks glass"
+  align: "50% 50%"
 ---
 {{< wrap >}}
 {{< summary >}}

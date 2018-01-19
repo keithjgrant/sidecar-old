@@ -23,7 +23,7 @@ Traditionally made with a London dry gin, but I think it’s fantastic with [gen
 
 {{< ingredients
   "1¾ oz gin"
-  "3¼ oz tonic water"
+  "3½ oz tonic water"
   "¼ lime, wedge"
 >}}
 
