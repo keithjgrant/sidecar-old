@@ -8,11 +8,15 @@ Vermouth is type of fortified wine with added hints of various herbs and spices.
 <!--more-->
 
 ## Types of Vermouth
-The two most common types of vermouth are *dry* and *sweet*. Dry vermouths are light in color, often with a hint of yellow. The quintessential dry vermouth drink is the [martini](/drinks/martini).
+The two most common types of vermouth are *dry* and *sweet*. Dry vermouths (sometimes called “French vermouth”) are light in color, often with a hint of yellow. The quintessential dry vermouth drink is the [martini](/drinks/martini).
 
-Sweet vermouths, often labelled “Rosso”, are reddish in color and sweeter tasting than dry vermouths. The best-known sweet vermouth drink is the [manhattan](/drinks/manhattan).
+Sweet vermouths, often labelled “Rosso” or “Italian vermouth”, are reddish in color and sweeter tasting than dry vermouths. The best-known sweet vermouth drink is the [manhattan](/drinks/manhattan).
 
-Another less common type of vermouth are “blanc” or “bianco”. Blanc vermouth is clear in color, but sweeter in flavor than a dry vermouth. These are delicous and in some ways similar to Sherry.
+Another less common type of vermouth are “blanc” or “bianco”. Blanc vermouth is clear in color, but sweeter in flavor than a dry vermouth. These are delicious and I find the flavor in some ways reminiscent of Sherry.
+
+There are also several aperitif wines that are not technically vermouth, but are fairly similar, such as Cocchi Americano and Lillet Blanc.
+
+If you want to find out more, here is a [more detailed breakdown of vermouth types](http://www.vermouth101.com/vermouth-styles.html).
 
 ### Brands
 <div class="aside">
