@@ -1,5 +1,5 @@
 <ul class="ingredients">
   {{- range .Params -}}
-  <li class="p-ingredient">{{.}}</li>
+  <li class="p-ingredient">{{. | markdownify}}</li>
   {{- end -}}
 </ul>

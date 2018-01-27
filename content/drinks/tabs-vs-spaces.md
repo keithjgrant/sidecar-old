@@ -5,7 +5,8 @@ tags: [
   "tequila",
   "green-chartreuse",
   "lime",
-  "sidecar-original"
+  "sidecar-original",
+  "shaken"
 ]
 featured: true
 
