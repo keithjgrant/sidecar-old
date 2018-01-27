@@ -8,7 +8,6 @@ tags: [
   "egg",
   "shaken"
 ]
-featured: true
 source: http://thecharmingdetroiter.com/indian-winter-a-cardamom-winter-cocktail/
 
 image:

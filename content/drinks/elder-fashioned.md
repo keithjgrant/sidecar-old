@@ -1,5 +1,5 @@
 ---
-title: "Elder Fashion"
+title: "Elder Fashioned"
 date: 2018-01-27T15:14:01-05:00
 tags: [
   "gin",
@@ -7,6 +7,7 @@ tags: [
   "elderflower-liqueur",
   "stirred"
 ]
+featured: true
 
 image:
   url: "/images/drinks/elder-fashion.jpg"
