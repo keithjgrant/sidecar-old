@@ -16,6 +16,11 @@
       "src": "logo-192px.png",
       "type": "image/png",
       "sizes": "192x192"
+    },
+    {
+      "src": "logo-512px.png",
+      "type": "image/png",
+      "sizes": "512x512"
     }
   ],
   "start_url": "/",

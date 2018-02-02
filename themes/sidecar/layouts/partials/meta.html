@@ -26,10 +26,12 @@
 {{ if eq .URL "/" }}
   <meta name="og:title" content="Sidecar">
   <meta name="twitter:description" content="A curated collection of cocktails">
+  <meta name="Description" content="A curated collection of cocktails"
   <link rel="alternate" type="application/rss+xml" title="{{.Title}}" href="https://sidecar.keithjgrant.com/posts/index.xml">
 {{ else }}
   <meta name="og:title" content="{{ if .Params.heading }}{{ .Params.heading }}{{ else }}{{ .Title }}{{ end }}">
   <meta name="twitter:description" content="{{ substr (plainify .Summary) 0 200 }}">
+  <meta name="Description" content="{{ substr (plainify .Summary) 0 200 }}">
   {{ if .RSSLink }}<link rel="alternate" type="application/rss+xml" title="{{.Title}} | keithjgrant.com" href="{{ .RSSLink }}">{{ end }}
 {{ end }}
 <meta name="twitter:widgets:theme" content="light">
