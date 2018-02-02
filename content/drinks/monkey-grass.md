@@ -13,7 +13,7 @@ tags: [
 image:
   url: "/images/drinks/monkey-grass.jpg"
   alt: "Cocktail in a coupe glass, garnished with a lime wheel. A jalapeño is on the table in front of it."
-  align: "50% 50%"
+  align: "50% 25%"
 ---
 {{< wrap >}}
 {{< summary >}}
