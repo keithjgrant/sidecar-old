@@ -2,10 +2,10 @@
 title: "The Conference"
 date: 2018-12-10T13:22:55-05:00
 tags: [
-  "whiskey"
-  "rye-whiskey"
-  "cognac"
-  "brandy"
+  "whiskey",
+  "rye-whiskey",
+  "cognac",
+  "brandy",
   "stirred"
 ]
 ---
