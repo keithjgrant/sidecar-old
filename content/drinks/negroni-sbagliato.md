@@ -7,7 +7,6 @@ tags: [
   "sparkling-wine",
   "stirred"
 ]
-featured: true
 
 image:
   url: "/images/drinks/negroni-sbagliato.jpg"

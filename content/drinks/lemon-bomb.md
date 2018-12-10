@@ -9,6 +9,7 @@ tags: [
   "butter-syrup",
   "sweet"
 ]
+featured: true
 
 image:
   url: "/images/drinks/lemon-bomb.jpg"
