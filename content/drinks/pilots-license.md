@@ -15,7 +15,7 @@ image:
 ---
 {{< wrap >}}
 {{< summary >}}
-This is an in-your-face response to anyone who insists a martini must be dry. Aviation is a sweeter, less juniper-heavy gin that shines with a moderately sweet blanc vermouth.
+This is an in-your-face response to anyone who insists a martini must be dry. Aviation is a sweeter, less juniper-heavy gin that shines with a moderately sweet blanc vermouth. I even bump up the ratio of vermouth to 1:3 rather than my usual 1:4 martini ratio.
 {{< /summary >}}
 
 {{< ingredients

@@ -1,5 +1,5 @@
 {
-  "name": "sidecar.keithjgrant.com",
+  "name": "sidecar.us",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/keithjgrant/sidecar.keithjgrant.com.git"
+    "url": "git+https://github.com/keithjgrant/sidecar.git"
   },
   "author": "Keith J. Grant",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/keithjgrant/sidecar.keithjgrant.com/issues"
+    "url": "https://github.com/keithjgrant/sidecar/issues"
   },
-  "homepage": "https://github.com/keithjgrant/sidecar.keithjgrant.com#readme",
+  "homepage": "https://github.com/keithjgrant/sidecar#readme",
   "devDependencies": {
     "css-loader": "^0.28.1",
     "eslint": "^4.12.1",
