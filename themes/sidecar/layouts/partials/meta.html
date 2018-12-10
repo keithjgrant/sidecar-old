@@ -19,26 +19,26 @@
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@keithjgrant">
 {{ if .Params.image }}
-<meta name="twitter:image" content="https://sidecar.keithjgrant.com{{ .Params.image.url }}">
+<meta name="twitter:image" content="https://sidecar.us{{ .Params.image.url }}">
 {{ else }}
-<meta name="twitter:image" content="https://sidecar.keithjgrant.com/images/bar-wall.jpg">
+<meta name="twitter:image" content="https://sidecar.us/images/bar-wall.jpg">
 {{ end }}
 {{ if eq .URL "/" }}
   <meta name="og:title" content="Sidecar">
   <meta name="twitter:description" content="A curated collection of cocktails">
   <meta name="Description" content="A curated collection of cocktails">
-  <link rel="alternate" type="application/rss+xml" title="{{.Title}}" href="https://sidecar.keithjgrant.com/posts/index.xml">
+  <link rel="alternate" type="application/rss+xml" title="{{.Title}}" href="https://sidecar.us/index.xml">
 {{ else }}
   <meta name="og:title" content="{{ if .Params.heading }}{{ .Params.heading }}{{ else }}{{ .Title }}{{ end }}">
   <meta name="twitter:description" content="{{ substr (plainify .Summary) 0 200 }}">
   <meta name="Description" content="{{ substr (plainify .Summary) 0 200 }}">
-  {{ if .RSSLink }}<link rel="alternate" type="application/rss+xml" title="{{.Title}} | keithjgrant.com" href="{{ .RSSLink }}">{{ end }}
+  {{ if .RSSLink }}<link rel="alternate" type="application/rss+xml" title="{{.Title}} | sidecar.us" href="{{ .RSSLink }}">{{ end }}
 {{ end }}
 <meta name="twitter:widgets:theme" content="light">
 <meta name="twitter:widgets:link-color" content="#f59f00">
 <meta name="twitter:widgets:border-color" content="#f1f3f5">
 
-<link rel="self" href="https://sidecar.keithjgrant.com" />
+<link rel="self" href="https://sidecar.us" />
 <link rel="hub" href="https://pubsubhubbub.superfeedr.com/" />
 <link rel="manifest" href="/manifest.json">
 
