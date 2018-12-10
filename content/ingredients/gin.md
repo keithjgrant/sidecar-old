@@ -20,7 +20,7 @@ On the opposite end of the spectrum is *Genever* (or *Jenever* or *Dutch Style*)
 
 In the European Union, only gins made in the Netherlands, Belgium, France, or Germany may be labelled as genever. The names *New American* or *International* style may be applied to similar gins produced elsewhere.
 
-Hendrick’s and Bols Genever are two well-known Genever-style gin. My personal favorite gin, [Aviation](http://www.aviationgin.com/) also falls in this category.
+Hendrick’s and Bols Genever are two well-known Genever-style gin.
 
 [Drinks tagged genever-gin](/tags/genever-gin/)
 
