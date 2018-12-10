@@ -29,7 +29,7 @@ You can infuse just about anything you can think of. Here are some ideas:
 * cardamom
 * cinnamon and pear
 
-The right flavored syrup can take an otherwise simple cocktail to the next level.
+The right flavored syrup can take an otherwise simple cocktail to the next level. Don’t be shy with the flavoring; you can always dilute it down with regular simple syrup if it comes out too strong.
 
 See also [burnt-sugar-syrup](/ingredients/burnt-sugar-syrup/)
 

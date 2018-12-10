@@ -7,18 +7,17 @@ tags: [
   "campari",
   "dry-vermouth",
   "orange",
-  "shaken"
+  "stirred"
 ]
 
 ---
 {{< wrap >}}
 {{< ingredients
-  "2 oz rye whiskey"
-  "¾ oz Campari"
-  "¾ oz dry vermouth"
-  "lemon twist"
+"2 oz rye whiskey"
+"¾ oz Campari"
+"¾ oz dry vermouth"
+"lemon twist"
 >}}
-
 
 {{< instructions >}}
 Stir with ice. Strain into a coupe glass.
