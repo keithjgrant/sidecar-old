@@ -17,7 +17,7 @@ image:
 ---
 {{< wrap >}}
 {{< summary >}}
-I didn’t invent this drink, but I did invent the name.
+I didn’t invent this drink, but I did give it the name.
 {{< /summary >}}
 
 {{< ingredients

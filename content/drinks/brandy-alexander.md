@@ -4,7 +4,8 @@ date: "2018-01-15T11:17:51-05:00"
 tags: [
   "brandy",
   "cream",
-  "shaken"
+  "shaken",
+  "sweet"
 ]
 ---
 {{< wrap >}}
