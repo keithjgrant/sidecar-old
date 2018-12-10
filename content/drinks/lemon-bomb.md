@@ -23,7 +23,7 @@ This is easier to make in batches of 2 or 4 drinks to make beating the egg white
 
 
 {{< ingredients
-  "1½ oz aged rum"
+  "1½ oz aged or gold rum"
   "1 oz [butter syrup](/ingredients/butter-syrup)"
   "¾ lemon juice"
   "1 egg, separated"
