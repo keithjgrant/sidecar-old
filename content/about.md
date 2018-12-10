@@ -13,3 +13,9 @@ This is first and foremost *my* collection of cocktails. Some are very tradition
 Be sure you understand the three techniques for making drinks: [building](/techniques/building/), [shaking](/techniques/shaking/), and [stirring](/techniques/stirring/). Where my recipes say “build”, “shake”, or “stir”, I mean something specific.
 
 I’ll periodically add new entries for other important mixology skills, information about [ingredients and mixers](/ingredients), and, of course, new [drinks](/drinks/).
+
+## A note about brand names
+
+I’m annoyed when a recipe tells me what brand of liquor to use. I’m not going to stock four types of tequila in my home bar, and I wouldn’t expect you too, either. So in most of the recipes on Sidecar, I leave the brand up to you.
+
+That said, every now and then, it really does matter. An [Elder Fashioned](/drinks/elder-fashioned) doesn’t work without Plymouth Gin and the [Bannon Tantrum](/drinks/bannon-tantrum) was designed specifically for Dry Fly Vodka’s unique flavor. So I strive to only name brands when I think it actually matters.

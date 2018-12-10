@@ -16,7 +16,7 @@ image:
 ---
 {{< wrap >}}
 {{< summary >}}
-The right gin is essential in this cocktail—it cannot be overly piney or too floral. Stick with Plymouth if you can. Hendrick’s, with its cucumber flavor also tastes great. Most other gins I’ve tried have not fared as well.
+The right gin is essential in this cocktail—it cannot be overly piney or too floral. Stick with Plymouth if you can. In a pinch, you can get away with Hendrick’s and its cucumber flavor. Most other gins I’ve tried have not fared as well.
 {{< /summary >}}
 
 {{< ingredients
