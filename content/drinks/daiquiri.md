@@ -7,6 +7,9 @@ tags: [
   "classic-cocktail",
   "shaken"
 ]
+aliases: [
+  "/drinks/daiqueri/"
+]
 ---
 {{< wrap >}}
 {{< ingredients

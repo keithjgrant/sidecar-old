@@ -13,7 +13,7 @@ tags: [
   "2 oz rye whiskey"
   "¼ oz simple syrup"
   "3 dashes Peychaud’s bitters"
-  "1 dash angustura bitters"
+  "1 dash Angostura bitters"
   "lemon twist, discarded"
 >}}
 

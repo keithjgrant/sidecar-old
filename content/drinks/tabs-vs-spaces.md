@@ -8,7 +8,6 @@ tags: [
   "sidecar-original",
   "shaken"
 ]
-featured: true
 
 image:
   url: "/images/drinks/tabs-vs-spaces.jpg"
