@@ -10,7 +10,7 @@ This is a fun syrup that contains emulsified butter. I got this recipe from Dave
 * 200 grams sugar
 * 10 allspice berries, crushed
 
-Heat the water and allspice berries, allowing them to infuse for five minutes or so. Remove from heat and add Ticaloid powder; combine using a stick blender. Add melted butter and blend again with immersion blender. Add sugar and blend one last time until smooth.
+Heat the water and allspice berries, allowing them to infuse for five minutes or so. Remove from heat and strain out the allspice. Add Ticaloid powder and combine using a stick blender. Add melted butter and blend until smooth. Add sugar and blend one last time until smooth.
 
 This can be stored at room temperature if you’re using it the same day, or in the fridge for several days.
 
