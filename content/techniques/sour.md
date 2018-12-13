@@ -8,6 +8,8 @@ Here is a trick for remembering hundreds of cocktails: the sour. A sour is a coc
 * ¾ oz citrus juice
 * ¾ oz syrup
 
+<!--more-->
+
 Add these to a shaker with ice, shake, and strain into a glass. You can use any spirit, from whiskey to rum to gin; any citrus (usually lemon or lime). You can even use a different syrup rather than plain simple syrup, such as honey syrup, agave, or maple syrup.
 
 A [Daiquiri](/drinks/daiquiri/) is a sour made with rum and lime. A [Pinkest Gin](/drinks/pinkest-gin/) is gin and grapefruit—though the syrup is reduced to ½ oz due to the sweeter nature of grapefruit juice compared to lemon or lime.
