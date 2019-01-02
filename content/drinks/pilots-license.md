@@ -3,7 +3,7 @@ title: "Pilot’s License"
 date: 2018-12-10T12:24:35-05:00
 tags: [
   "gin",
-  "sweet-vermouth",
+  "blanc-vermouth",
   "stirred",
   "sidecar-original"
 ]
