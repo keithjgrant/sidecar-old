@@ -27,6 +27,6 @@ Here’s a video tutorial for [making ginger syrup](https://www.youtube.com/watc
 
 
 {{< instructions >}}
-[Stir](/techniques/stir/) well with plenty of ice. Strain into a coupe.
+[Stir](/techniques/stirring/) well with plenty of ice. Strain into a coupe.
 {{< /instructions >}}
 {{< /wrap >}}

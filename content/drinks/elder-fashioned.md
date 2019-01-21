@@ -28,7 +28,7 @@ The right gin is essential in this cocktail—it cannot be overly piney or too f
 
 
 {{< instructions >}}
-[Stir](/techniques/stir/) bitters, gin, and elderflower liqueur with plenty of ice. Strain into a rocks glass with fresh ice.
+[Stir](/techniques/stirring/) bitters, gin, and elderflower liqueur with plenty of ice. Strain into a rocks glass with fresh ice.
 
 Express oils from grapefruit twist over the glass and rub the peel around the rim. Add peel to the glass.
 {{< /instructions >}}
