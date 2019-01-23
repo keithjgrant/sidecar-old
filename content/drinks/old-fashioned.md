@@ -15,12 +15,12 @@ image:
 ---
 {{< wrap >}}
 {{< summary >}}
-Some people will argue an Old Fashioned must be made with a sugar cube. Those people haven’t tried it with [burnt sugar syrup](/ingredients/burnt-sugar-syrup).
+Some people will argue an Old Fashioned must be made with a sugar cube. Those people haven’t tried it with [burnt sugar syrup](/ingredients/burnt-sugar-syrup). A half ounce may seem like a lot of syrup, but burnt sugar isn’t quite as sweet as normal simple syrup, so I find this amount provides a good balance.
 {{< /summary >}}
 
 {{< ingredients
   "2 oz rye whiskey"
-  "¾ oz burnt sugar syrup"
+  "½ oz burnt sugar syrup"
   "2 dashes Angostura bitters"
   "2 dashes orange bitters"
   "orange twist"
